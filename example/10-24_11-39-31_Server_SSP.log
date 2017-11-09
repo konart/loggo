@@ -1,0 +1,1362 @@
+2017-11-08 00:00:59,232 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:00:59 MSK 2017 count: 60 max: 1001ms min: 961ms avg: 999ms
+2017-11-08 00:01:39,680 [WARN] -- SPP4222. resultSet == null
+2017-11-08 00:01:59,242 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:01:59 MSK 2017 count: 60 max: 1001ms min: 969ms avg: 999ms
+2017-11-08 00:02:59,250 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:02:59 MSK 2017 count: 60 max: 1001ms min: 980ms avg: 999ms
+2017-11-08 00:03:59,258 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:03:59 MSK 2017 count: 60 max: 1001ms min: 988ms avg: 1000ms
+2017-11-08 00:04:59,268 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:04:58 MSK 2017 count: 59 max: 1001ms min: 999ms avg: 1000ms
+2017-11-08 00:05:59,280 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:05:58 MSK 2017 count: 60 max: 1001ms min: 6ms avg: 983ms
+2017-11-08 00:06:42,898 [WARN] -- SPP4222. resultSet == null
+2017-11-08 00:06:59,290 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:06:58 MSK 2017 count: 60 max: 1001ms min: 10ms avg: 983ms
+2017-11-08 00:07:59,301 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:07:58 MSK 2017 count: 60 max: 1001ms min: 14ms avg: 983ms
+2017-11-08 00:08:59,313 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:08:58 MSK 2017 count: 60 max: 1001ms min: 16ms avg: 983ms
+2017-11-08 00:09:59,323 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:09:58 MSK 2017 count: 60 max: 1001ms min: 17ms avg: 983ms
+2017-11-08 00:10:59,332 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:10:58 MSK 2017 count: 60 max: 1001ms min: 21ms avg: 983ms
+2017-11-08 00:11:46,230 [WARN] -- SPP4222. resultSet == null
+2017-11-08 00:11:59,342 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:11:58 MSK 2017 count: 60 max: 1003ms min: 27ms avg: 984ms
+2017-11-08 00:12:59,352 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:12:58 MSK 2017 count: 60 max: 1001ms min: 31ms avg: 984ms
+2017-11-08 00:13:59,365 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:13:58 MSK 2017 count: 60 max: 1001ms min: 38ms avg: 984ms
+2017-11-08 00:14:59,376 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:14:58 MSK 2017 count: 60 max: 1001ms min: 44ms avg: 984ms
+2017-11-08 00:15:59,386 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:15:58 MSK 2017 count: 60 max: 1001ms min: 51ms avg: 984ms
+2017-11-08 00:16:52,215 [WARN] -- SPP4222. resultSet == null
+2017-11-08 00:16:59,393 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:16:58 MSK 2017 count: 60 max: 1001ms min: 58ms avg: 984ms
+2017-11-08 00:17:59,405 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:17:58 MSK 2017 count: 60 max: 1001ms min: 70ms avg: 984ms
+2017-11-08 00:18:59,417 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:18:58 MSK 2017 count: 60 max: 1001ms min: 76ms avg: 984ms
+2017-11-08 00:19:59,428 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:19:58 MSK 2017 count: 60 max: 1001ms min: 80ms avg: 985ms
+2017-11-08 00:20:59,439 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:20:58 MSK 2017 count: 60 max: 1001ms min: 89ms avg: 985ms
+2017-11-08 00:21:56,525 [WARN] -- SPP4222. resultSet == null
+2017-11-08 00:21:59,450 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:21:58 MSK 2017 count: 60 max: 1001ms min: 95ms avg: 985ms
+2017-11-08 00:22:59,460 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:22:58 MSK 2017 count: 60 max: 1001ms min: 103ms avg: 985ms
+2017-11-08 00:23:59,471 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:23:58 MSK 2017 count: 60 max: 1001ms min: 108ms avg: 985ms
+2017-11-08 00:24:59,483 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:24:58 MSK 2017 count: 60 max: 1001ms min: 116ms avg: 985ms
+2017-11-08 00:25:59,495 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:25:58 MSK 2017 count: 60 max: 1001ms min: 120ms avg: 985ms
+2017-11-08 00:26:59,503 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:26:58 MSK 2017 count: 60 max: 1001ms min: 124ms avg: 985ms
+2017-11-08 00:27:00,149 [WARN] -- SPP4222. resultSet == null
+2017-11-08 00:27:59,512 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:27:58 MSK 2017 count: 60 max: 1001ms min: 132ms avg: 985ms
+2017-11-08 00:28:59,522 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:28:58 MSK 2017 count: 60 max: 1001ms min: 140ms avg: 985ms
+2017-11-08 00:29:59,532 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:29:58 MSK 2017 count: 60 max: 1006ms min: 146ms avg: 986ms
+2017-11-08 00:30:59,542 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:30:58 MSK 2017 count: 60 max: 1001ms min: 157ms avg: 986ms
+2017-11-08 00:31:59,550 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:31:58 MSK 2017 count: 60 max: 1001ms min: 165ms avg: 986ms
+2017-11-08 00:32:03,497 [WARN] -- SPP4222. resultSet == null
+2017-11-08 00:32:59,558 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:32:58 MSK 2017 count: 60 max: 1001ms min: 174ms avg: 986ms
+2017-11-08 00:33:59,568 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:33:58 MSK 2017 count: 60 max: 1001ms min: 182ms avg: 986ms
+2017-11-08 00:34:59,578 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:34:58 MSK 2017 count: 60 max: 1001ms min: 190ms avg: 986ms
+2017-11-08 00:35:59,589 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:35:58 MSK 2017 count: 60 max: 1001ms min: 197ms avg: 986ms
+2017-11-08 00:36:59,600 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:36:58 MSK 2017 count: 60 max: 1001ms min: 204ms avg: 987ms
+2017-11-08 00:37:06,912 [WARN] -- SPP4222. resultSet == null
+2017-11-08 00:37:59,609 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:37:58 MSK 2017 count: 60 max: 1001ms min: 209ms avg: 987ms
+2017-11-08 00:38:59,617 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:38:58 MSK 2017 count: 60 max: 1001ms min: 216ms avg: 987ms
+2017-11-08 00:39:59,627 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:39:58 MSK 2017 count: 60 max: 1001ms min: 222ms avg: 987ms
+2017-11-08 00:40:59,638 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:40:58 MSK 2017 count: 60 max: 1001ms min: 230ms avg: 987ms
+2017-11-08 00:41:59,650 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:41:58 MSK 2017 count: 60 max: 1002ms min: 235ms avg: 987ms
+2017-11-08 00:42:10,103 [WARN] -- SPP4222. resultSet == null
+2017-11-08 00:42:10,758 [INFO] -- -----> Ntf perf: {:period=>"57610 sec", :bytes=>"0.12 b/sec", :max_bytes=>"16.65 b/sec", :min_bytes=>"0.08 b/sec", :avg_bytes=>"0.24 b/sec", :ntf=>"0 ntf/sec", :max_ntf=>"0.05 ntf/sec", :min_ntf=>"0 ntf/sec", :avg_ntf=>"0 ntf/sec"}
+2017-11-08 00:42:10,758 [INFO] -- -----> Queue stats: {:in_q=>0, :ntf_proxy_q=>0, :zk_q=>0, :ntf_in_q=>0, :ntf_out_q=>0, :clients_n=>1, :sender_out=>0, :sender_in=>0, :sender_b=>6057, :cluster_b=>0, :time_b=>0, :plugin_q=>0, :space_q=>0}
+2017-11-08 00:42:10,758 [INFO] -- -----> Ntf size stats: 
+10.247.2.236:49057:
+  class:SettingsNotifier:
+    {:count=>1, :total=>322, :max=>322, :min=>322, :avg=>322.0}
+-------------------------
+
+2017-11-08 00:42:10,758 [DEBUG] -- Изменена настройка seq_79_uobj = '400793004000'
+2017-11-08 00:42:10,758 [INFO] -- ----> Ntf handle time stat {"10.247.2.236:49057"=>{"SettingsNotifier"=>{:count=>1, :total=>0.0, :max=>0.0, :min=>0.0, :avg=>0}}}
+2017-11-08 00:42:59,661 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:42:58 MSK 2017 count: 60 max: 1003ms min: 240ms avg: 987ms
+2017-11-08 00:43:59,670 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:43:58 MSK 2017 count: 60 max: 1001ms min: 246ms avg: 987ms
+2017-11-08 00:44:59,680 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:44:58 MSK 2017 count: 60 max: 1001ms min: 253ms avg: 987ms
+2017-11-08 00:45:59,691 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:45:58 MSK 2017 count: 60 max: 1001ms min: 260ms avg: 987ms
+2017-11-08 00:46:59,702 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:46:58 MSK 2017 count: 60 max: 1002ms min: 266ms avg: 988ms
+2017-11-08 00:47:14,154 [WARN] -- SPP4222. resultSet == null
+2017-11-08 00:47:59,712 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:47:58 MSK 2017 count: 60 max: 1002ms min: 273ms avg: 988ms
+2017-11-08 00:48:59,723 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:48:59 MSK 2017 count: 60 max: 1001ms min: 281ms avg: 988ms
+2017-11-08 00:49:59,735 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:49:59 MSK 2017 count: 60 max: 1001ms min: 289ms avg: 988ms
+2017-11-08 00:50:59,746 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:50:59 MSK 2017 count: 60 max: 1001ms min: 294ms avg: 988ms
+2017-11-08 00:51:59,754 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:51:59 MSK 2017 count: 60 max: 1001ms min: 301ms avg: 988ms
+2017-11-08 00:52:17,383 [WARN] -- SPP4222. resultSet == null
+2017-11-08 00:52:59,765 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:52:59 MSK 2017 count: 60 max: 1002ms min: 309ms avg: 988ms
+2017-11-08 00:53:59,776 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:53:59 MSK 2017 count: 60 max: 1001ms min: 317ms avg: 988ms
+2017-11-08 00:54:59,786 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:54:59 MSK 2017 count: 60 max: 1080ms min: 323ms avg: 990ms
+2017-11-08 00:55:59,797 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:55:59 MSK 2017 count: 60 max: 1001ms min: 416ms avg: 990ms
+2017-11-08 00:56:59,808 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:56:59 MSK 2017 count: 60 max: 1001ms min: 422ms avg: 990ms
+2017-11-08 00:57:23,147 [WARN] -- SPP4222. resultSet == null
+2017-11-08 00:57:59,819 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:57:59 MSK 2017 count: 60 max: 1001ms min: 429ms avg: 990ms
+2017-11-08 00:58:59,831 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:58:59 MSK 2017 count: 60 max: 1001ms min: 433ms avg: 990ms
+2017-11-08 00:59:59,843 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 00:59:59 MSK 2017 count: 60 max: 1001ms min: 437ms avg: 990ms
+2017-11-08 01:00:59,853 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:00:59 MSK 2017 count: 60 max: 1001ms min: 440ms avg: 990ms
+2017-11-08 01:01:59,865 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:01:59 MSK 2017 count: 60 max: 1001ms min: 447ms avg: 991ms
+2017-11-08 01:02:35,876 [WARN] -- SPP4222. resultSet == null
+2017-11-08 01:02:59,876 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:02:59 MSK 2017 count: 60 max: 1001ms min: 449ms avg: 991ms
+2017-11-08 01:03:59,886 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:03:59 MSK 2017 count: 60 max: 1001ms min: 453ms avg: 991ms
+2017-11-08 01:04:59,896 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:04:59 MSK 2017 count: 60 max: 1001ms min: 456ms avg: 991ms
+2017-11-08 01:05:59,907 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:05:59 MSK 2017 count: 60 max: 1001ms min: 460ms avg: 991ms
+2017-11-08 01:06:59,915 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:06:59 MSK 2017 count: 60 max: 1001ms min: 465ms avg: 991ms
+2017-11-08 01:07:48,617 [WARN] -- SPP4222. resultSet == null
+2017-11-08 01:07:59,925 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:07:59 MSK 2017 count: 60 max: 1001ms min: 473ms avg: 991ms
+2017-11-08 01:08:59,934 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:08:59 MSK 2017 count: 60 max: 1002ms min: 479ms avg: 991ms
+2017-11-08 01:09:59,945 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:09:59 MSK 2017 count: 60 max: 1007ms min: 487ms avg: 992ms
+2017-11-08 01:10:59,955 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:10:59 MSK 2017 count: 60 max: 1003ms min: 512ms avg: 992ms
+2017-11-08 01:11:59,965 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:11:59 MSK 2017 count: 60 max: 1001ms min: 522ms avg: 992ms
+2017-11-08 01:12:55,040 [WARN] -- SPP4222. resultSet == null
+2017-11-08 01:12:59,973 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:12:59 MSK 2017 count: 60 max: 1002ms min: 531ms avg: 992ms
+2017-11-08 01:13:59,980 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:13:59 MSK 2017 count: 60 max: 1002ms min: 541ms avg: 992ms
+2017-11-08 01:14:59,990 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:14:59 MSK 2017 count: 60 max: 1001ms min: 550ms avg: 992ms
+2017-11-08 01:16:00,000 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:15:59 MSK 2017 count: 60 max: 1001ms min: 558ms avg: 992ms
+2017-11-08 01:17:00,010 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:16:59 MSK 2017 count: 60 max: 1002ms min: 564ms avg: 993ms
+2017-11-08 01:18:00,018 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:17:59 MSK 2017 count: 60 max: 1002ms min: 578ms avg: 993ms
+2017-11-08 01:18:05,014 [WARN] -- SPP4222. resultSet == null
+2017-11-08 01:19:00,027 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:18:59 MSK 2017 count: 60 max: 1001ms min: 589ms avg: 993ms
+2017-11-08 01:20:00,035 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:19:59 MSK 2017 count: 60 max: 1001ms min: 599ms avg: 993ms
+2017-11-08 01:21:00,045 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:20:59 MSK 2017 count: 60 max: 1001ms min: 609ms avg: 993ms
+2017-11-08 01:22:00,055 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:21:59 MSK 2017 count: 60 max: 1001ms min: 619ms avg: 994ms
+2017-11-08 01:23:00,064 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:22:59 MSK 2017 count: 60 max: 1002ms min: 630ms avg: 994ms
+2017-11-08 01:23:08,793 [WARN] -- SPP4222. resultSet == null
+2017-11-08 01:24:00,073 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:23:59 MSK 2017 count: 60 max: 1001ms min: 642ms avg: 994ms
+2017-11-08 01:25:00,083 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:24:59 MSK 2017 count: 60 max: 1001ms min: 653ms avg: 994ms
+2017-11-08 01:26:00,091 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:25:59 MSK 2017 count: 60 max: 1004ms min: 662ms avg: 994ms
+2017-11-08 01:27:00,098 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:26:59 MSK 2017 count: 60 max: 1001ms min: 677ms avg: 994ms
+2017-11-08 01:28:00,107 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:27:59 MSK 2017 count: 60 max: 1001ms min: 686ms avg: 995ms
+2017-11-08 01:28:14,810 [WARN] -- SPP4222. resultSet == null
+2017-11-08 01:29:00,116 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:28:59 MSK 2017 count: 60 max: 1001ms min: 696ms avg: 995ms
+2017-11-08 01:30:00,125 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:29:59 MSK 2017 count: 60 max: 1001ms min: 705ms avg: 995ms
+2017-11-08 01:31:00,134 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:30:59 MSK 2017 count: 60 max: 1004ms min: 714ms avg: 995ms
+2017-11-08 01:32:00,142 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:31:59 MSK 2017 count: 60 max: 1001ms min: 726ms avg: 995ms
+2017-11-08 01:33:00,150 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:32:59 MSK 2017 count: 60 max: 1001ms min: 735ms avg: 995ms
+2017-11-08 01:33:21,275 [WARN] -- SPP4222. resultSet == null
+2017-11-08 01:33:21,564 [INFO] -- -----> Ntf perf: {:period=>"60681 sec", :bytes=>"0.1 b/sec", :max_bytes=>"16.65 b/sec", :min_bytes=>"0.08 b/sec", :avg_bytes=>"0.23 b/sec", :ntf=>"0 ntf/sec", :max_ntf=>"0.05 ntf/sec", :min_ntf=>"0 ntf/sec", :avg_ntf=>"0 ntf/sec"}
+2017-11-08 01:33:21,565 [INFO] -- -----> Queue stats: {:in_q=>0, :ntf_proxy_q=>0, :zk_q=>0, :ntf_in_q=>0, :ntf_out_q=>0, :clients_n=>1, :sender_out=>0, :sender_in=>0, :sender_b=>6057, :cluster_b=>0, :time_b=>0, :plugin_q=>0, :space_q=>0}
+2017-11-08 01:33:21,565 [INFO] -- -----> Ntf size stats: 
+10.247.2.236:49057:
+  class:SettingsNotifier:
+    {:count=>1, :total=>322, :max=>322, :min=>322, :avg=>322.0}
+-------------------------
+
+2017-11-08 01:33:21,565 [DEBUG] -- Изменена настройка seq_79_uobj = '400793008000'
+2017-11-08 01:33:21,565 [INFO] -- ----> Ntf handle time stat {"10.247.2.236:49057"=>{"SettingsNotifier"=>{:count=>1, :total=>0.0, :max=>0.0, :min=>0.0, :avg=>0}}}
+2017-11-08 01:34:00,161 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:33:59 MSK 2017 count: 60 max: 1001ms min: 744ms avg: 996ms
+2017-11-08 01:35:00,171 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:34:59 MSK 2017 count: 60 max: 1001ms min: 753ms avg: 996ms
+2017-11-08 01:36:00,180 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:35:59 MSK 2017 count: 60 max: 1001ms min: 762ms avg: 996ms
+2017-11-08 01:37:00,190 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:36:59 MSK 2017 count: 60 max: 1001ms min: 773ms avg: 996ms
+2017-11-08 01:38:00,200 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:37:59 MSK 2017 count: 60 max: 1001ms min: 784ms avg: 996ms
+2017-11-08 01:38:27,674 [WARN] -- SPP4222. resultSet == null
+2017-11-08 01:39:00,209 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:39:00 MSK 2017 count: 60 max: 1177ms min: 792ms avg: 996ms
+2017-11-08 01:40:00,219 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:40:00 MSK 2017 count: 60 max: 1001ms min: 800ms avg: 996ms
+2017-11-08 01:41:00,228 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:41:00 MSK 2017 count: 60 max: 1001ms min: 808ms avg: 997ms
+2017-11-08 01:42:00,235 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:42:00 MSK 2017 count: 60 max: 1001ms min: 815ms avg: 997ms
+2017-11-08 01:43:00,243 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:43:00 MSK 2017 count: 60 max: 1001ms min: 826ms avg: 997ms
+2017-11-08 01:43:30,717 [WARN] -- SPP4222. resultSet == null
+2017-11-08 01:44:00,251 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:44:00 MSK 2017 count: 60 max: 1001ms min: 835ms avg: 997ms
+2017-11-08 01:45:00,260 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:45:00 MSK 2017 count: 60 max: 1001ms min: 847ms avg: 997ms
+2017-11-08 01:46:00,271 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:46:00 MSK 2017 count: 60 max: 1003ms min: 856ms avg: 997ms
+2017-11-08 01:47:00,281 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:47:00 MSK 2017 count: 60 max: 1002ms min: 864ms avg: 998ms
+2017-11-08 01:48:00,291 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:48:00 MSK 2017 count: 60 max: 1001ms min: 871ms avg: 998ms
+2017-11-08 01:48:36,321 [WARN] -- SPP4222. resultSet == null
+2017-11-08 01:49:00,301 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:49:00 MSK 2017 count: 60 max: 1001ms min: 879ms avg: 998ms
+2017-11-08 01:50:00,310 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:50:00 MSK 2017 count: 60 max: 1001ms min: 887ms avg: 998ms
+2017-11-08 01:51:00,320 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:51:00 MSK 2017 count: 60 max: 1001ms min: 896ms avg: 998ms
+2017-11-08 01:52:00,329 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:52:00 MSK 2017 count: 60 max: 1001ms min: 910ms avg: 998ms
+2017-11-08 01:53:00,339 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:53:00 MSK 2017 count: 60 max: 1002ms min: 916ms avg: 998ms
+2017-11-08 01:53:39,335 [WARN] -- SPP4222. resultSet == null
+2017-11-08 01:54:00,347 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:54:00 MSK 2017 count: 60 max: 1001ms min: 926ms avg: 999ms
+2017-11-08 01:55:00,357 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:55:00 MSK 2017 count: 60 max: 1001ms min: 937ms avg: 999ms
+2017-11-08 01:56:00,365 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:56:00 MSK 2017 count: 60 max: 1002ms min: 945ms avg: 999ms
+2017-11-08 01:57:00,375 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:57:00 MSK 2017 count: 60 max: 1001ms min: 956ms avg: 999ms
+2017-11-08 01:58:00,385 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:58:00 MSK 2017 count: 60 max: 1001ms min: 965ms avg: 999ms
+2017-11-08 01:58:44,990 [WARN] -- SPP4222. resultSet == null
+2017-11-08 01:59:00,393 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 01:59:00 MSK 2017 count: 60 max: 1001ms min: 975ms avg: 999ms
+2017-11-08 02:00:00,401 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:00:00 MSK 2017 count: 60 max: 1001ms min: 985ms avg: 1000ms
+2017-11-08 02:01:00,408 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:00:59 MSK 2017 count: 59 max: 1001ms min: 995ms avg: 1000ms
+2017-11-08 02:02:00,417 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:01:59 MSK 2017 count: 60 max: 1001ms min: 4ms avg: 983ms
+2017-11-08 02:03:00,426 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:02:59 MSK 2017 count: 60 max: 1001ms min: 12ms avg: 983ms
+2017-11-08 02:03:51,166 [WARN] -- SPP4222. resultSet == null
+2017-11-08 02:04:00,435 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:03:59 MSK 2017 count: 60 max: 1001ms min: 18ms avg: 983ms
+2017-11-08 02:05:00,446 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:04:59 MSK 2017 count: 60 max: 1001ms min: 29ms avg: 984ms
+2017-11-08 02:06:00,453 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:05:59 MSK 2017 count: 60 max: 1001ms min: 35ms avg: 984ms
+2017-11-08 02:07:00,462 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:06:59 MSK 2017 count: 60 max: 1051ms min: 48ms avg: 984ms
+2017-11-08 02:08:00,472 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:07:59 MSK 2017 count: 60 max: 1019ms min: 79ms avg: 985ms
+2017-11-08 02:08:56,724 [WARN] -- SPP4222. resultSet == null
+2017-11-08 02:09:00,481 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:08:59 MSK 2017 count: 60 max: 1013ms min: 89ms avg: 985ms
+2017-11-08 02:10:00,491 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:09:59 MSK 2017 count: 60 max: 1034ms min: 101ms avg: 985ms
+2017-11-08 02:11:00,502 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:10:59 MSK 2017 count: 60 max: 1003ms min: 145ms avg: 986ms
+2017-11-08 02:12:00,512 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:11:59 MSK 2017 count: 60 max: 1001ms min: 158ms avg: 986ms
+2017-11-08 02:13:00,522 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:12:59 MSK 2017 count: 60 max: 1002ms min: 169ms avg: 986ms
+2017-11-08 02:14:00,534 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:13:59 MSK 2017 count: 60 max: 1001ms min: 180ms avg: 986ms
+2017-11-08 02:14:00,764 [WARN] -- SPP4222. resultSet == null
+2017-11-08 02:15:00,544 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:14:59 MSK 2017 count: 60 max: 1001ms min: 188ms avg: 986ms
+2017-11-08 02:16:00,556 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:15:59 MSK 2017 count: 60 max: 1001ms min: 198ms avg: 986ms
+2017-11-08 02:17:00,566 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:16:59 MSK 2017 count: 60 max: 1001ms min: 205ms avg: 987ms
+2017-11-08 02:18:00,577 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:17:59 MSK 2017 count: 60 max: 1003ms min: 216ms avg: 987ms
+2017-11-08 02:19:00,588 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:18:59 MSK 2017 count: 60 max: 1002ms min: 227ms avg: 987ms
+2017-11-08 02:19:04,730 [WARN] -- SPP4222. resultSet == null
+2017-11-08 02:19:05,123 [INFO] -- -----> Ntf perf: {:period=>"63425 sec", :bytes=>"0.12 b/sec", :max_bytes=>"16.65 b/sec", :min_bytes=>"0.08 b/sec", :avg_bytes=>"0.23 b/sec", :ntf=>"0 ntf/sec", :max_ntf=>"0.05 ntf/sec", :min_ntf=>"0 ntf/sec", :avg_ntf=>"0 ntf/sec"}
+2017-11-08 02:19:05,123 [INFO] -- -----> Queue stats: {:in_q=>0, :ntf_proxy_q=>0, :zk_q=>0, :ntf_in_q=>0, :ntf_out_q=>0, :clients_n=>1, :sender_out=>0, :sender_in=>0, :sender_b=>6057, :cluster_b=>0, :time_b=>0, :plugin_q=>0, :space_q=>0}
+2017-11-08 02:19:05,123 [INFO] -- -----> Ntf size stats: 
+10.247.2.236:49057:
+  class:SettingsNotifier:
+    {:count=>1, :total=>322, :max=>322, :min=>322, :avg=>322.0}
+-------------------------
+
+2017-11-08 02:19:05,124 [DEBUG] -- Изменена настройка seq_79_uobj = '400793012000'
+2017-11-08 02:19:05,124 [INFO] -- ----> Ntf handle time stat {"10.247.2.236:49057"=>{"SettingsNotifier"=>{:count=>1, :total=>0.0, :max=>0.0, :min=>0.0, :avg=>0}}}
+2017-11-08 02:20:00,597 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:19:59 MSK 2017 count: 60 max: 1002ms min: 245ms avg: 987ms
+2017-11-08 02:21:00,607 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:20:59 MSK 2017 count: 60 max: 1010ms min: 259ms avg: 988ms
+2017-11-08 02:22:00,617 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:21:59 MSK 2017 count: 60 max: 1004ms min: 277ms avg: 988ms
+2017-11-08 02:23:00,626 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:22:59 MSK 2017 count: 60 max: 1003ms min: 291ms avg: 988ms
+2017-11-08 02:24:00,637 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:23:59 MSK 2017 count: 60 max: 1002ms min: 305ms avg: 988ms
+2017-11-08 02:24:07,860 [WARN] -- SPP4222. resultSet == null
+2017-11-08 02:25:00,647 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:24:59 MSK 2017 count: 60 max: 1001ms min: 318ms avg: 988ms
+2017-11-08 02:26:00,657 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:25:59 MSK 2017 count: 60 max: 1001ms min: 328ms avg: 989ms
+2017-11-08 02:27:00,667 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:27:00 MSK 2017 count: 60 max: 1002ms min: 336ms avg: 989ms
+2017-11-08 02:28:00,676 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:28:00 MSK 2017 count: 60 max: 1001ms min: 346ms avg: 989ms
+2017-11-08 02:29:00,687 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:29:00 MSK 2017 count: 60 max: 1001ms min: 354ms avg: 989ms
+2017-11-08 02:29:13,823 [WARN] -- SPP4222. resultSet == null
+2017-11-08 02:30:00,696 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:30:00 MSK 2017 count: 60 max: 1001ms min: 362ms avg: 989ms
+2017-11-08 02:31:00,706 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:31:00 MSK 2017 count: 60 max: 1003ms min: 373ms avg: 989ms
+2017-11-08 02:32:00,715 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:32:00 MSK 2017 count: 60 max: 1002ms min: 388ms avg: 990ms
+2017-11-08 02:33:00,725 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:33:00 MSK 2017 count: 60 max: 1002ms min: 402ms avg: 990ms
+2017-11-08 02:34:00,734 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:34:00 MSK 2017 count: 60 max: 1001ms min: 417ms avg: 990ms
+2017-11-08 02:34:19,311 [WARN] -- SPP4222. resultSet == null
+2017-11-08 02:35:00,742 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:35:00 MSK 2017 count: 60 max: 1002ms min: 428ms avg: 990ms
+2017-11-08 02:36:00,750 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:36:00 MSK 2017 count: 60 max: 1001ms min: 439ms avg: 990ms
+2017-11-08 02:37:00,760 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:37:00 MSK 2017 count: 60 max: 1002ms min: 451ms avg: 991ms
+2017-11-08 02:38:00,771 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:38:00 MSK 2017 count: 60 max: 1001ms min: 462ms avg: 991ms
+2017-11-08 02:39:00,781 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:39:00 MSK 2017 count: 60 max: 1005ms min: 472ms avg: 991ms
+2017-11-08 02:39:22,637 [WARN] -- SPP4222. resultSet == null
+2017-11-08 02:40:00,792 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:40:00 MSK 2017 count: 60 max: 1001ms min: 480ms avg: 991ms
+2017-11-08 02:41:00,800 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:41:00 MSK 2017 count: 60 max: 1001ms min: 491ms avg: 991ms
+2017-11-08 02:42:00,811 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:42:00 MSK 2017 count: 60 max: 1002ms min: 501ms avg: 992ms
+2017-11-08 02:43:00,821 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:43:00 MSK 2017 count: 60 max: 1001ms min: 510ms avg: 992ms
+2017-11-08 02:44:00,831 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:44:00 MSK 2017 count: 60 max: 1001ms min: 518ms avg: 992ms
+2017-11-08 02:44:25,971 [WARN] -- SPP4222. resultSet == null
+2017-11-08 02:45:00,843 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:45:00 MSK 2017 count: 60 max: 1002ms min: 525ms avg: 992ms
+2017-11-08 02:46:00,853 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:46:00 MSK 2017 count: 60 max: 1002ms min: 532ms avg: 992ms
+2017-11-08 02:47:00,863 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:47:00 MSK 2017 count: 60 max: 1001ms min: 543ms avg: 992ms
+2017-11-08 02:48:00,873 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:48:00 MSK 2017 count: 60 max: 1001ms min: 551ms avg: 992ms
+2017-11-08 02:49:00,881 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:49:00 MSK 2017 count: 60 max: 1001ms min: 559ms avg: 992ms
+2017-11-08 02:49:29,147 [WARN] -- SPP4222. resultSet == null
+2017-11-08 02:50:00,891 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:50:00 MSK 2017 count: 60 max: 1001ms min: 569ms avg: 993ms
+2017-11-08 02:51:00,902 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:51:00 MSK 2017 count: 60 max: 1001ms min: 576ms avg: 993ms
+2017-11-08 02:52:00,912 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:52:00 MSK 2017 count: 60 max: 1001ms min: 582ms avg: 993ms
+2017-11-08 02:53:00,923 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:53:00 MSK 2017 count: 60 max: 1001ms min: 590ms avg: 993ms
+2017-11-08 02:54:00,934 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:54:00 MSK 2017 count: 60 max: 1001ms min: 596ms avg: 993ms
+2017-11-08 02:54:32,344 [WARN] -- SPP4222. resultSet == null
+2017-11-08 02:55:00,945 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:55:00 MSK 2017 count: 60 max: 1001ms min: 602ms avg: 993ms
+2017-11-08 02:56:00,955 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:56:00 MSK 2017 count: 60 max: 1001ms min: 608ms avg: 993ms
+2017-11-08 02:57:00,965 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:57:00 MSK 2017 count: 60 max: 1001ms min: 614ms avg: 993ms
+2017-11-08 02:58:00,976 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:58:00 MSK 2017 count: 60 max: 1002ms min: 620ms avg: 993ms
+2017-11-08 02:59:00,988 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 02:59:00 MSK 2017 count: 60 max: 1001ms min: 626ms avg: 994ms
+2017-11-08 02:59:37,955 [WARN] -- SPP4222. resultSet == null
+2017-11-08 03:00:00,997 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:00:00 MSK 2017 count: 60 max: 1001ms min: 631ms avg: 994ms
+2017-11-08 03:01:01,006 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:01:00 MSK 2017 count: 60 max: 1001ms min: 638ms avg: 994ms
+2017-11-08 03:02:01,016 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:02:00 MSK 2017 count: 60 max: 1001ms min: 647ms avg: 994ms
+2017-11-08 03:03:01,025 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:03:00 MSK 2017 count: 60 max: 1001ms min: 655ms avg: 994ms
+2017-11-08 03:04:01,035 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:04:00 MSK 2017 count: 60 max: 1001ms min: 663ms avg: 994ms
+2017-11-08 03:04:41,148 [WARN] -- SPP4222. resultSet == null
+2017-11-08 03:04:41,624 [INFO] -- -----> Ntf perf: {:period=>"66161 sec", :bytes=>"0.12 b/sec", :max_bytes=>"16.65 b/sec", :min_bytes=>"0.08 b/sec", :avg_bytes=>"0.22 b/sec", :ntf=>"0 ntf/sec", :max_ntf=>"0.05 ntf/sec", :min_ntf=>"0 ntf/sec", :avg_ntf=>"0 ntf/sec"}
+2017-11-08 03:04:41,624 [INFO] -- -----> Queue stats: {:in_q=>0, :ntf_proxy_q=>0, :zk_q=>0, :ntf_in_q=>0, :ntf_out_q=>0, :clients_n=>1, :sender_out=>0, :sender_in=>0, :sender_b=>6057, :cluster_b=>0, :time_b=>0, :plugin_q=>0, :space_q=>0}
+2017-11-08 03:04:41,624 [INFO] -- -----> Ntf size stats: 
+10.247.2.236:49057:
+  class:SettingsNotifier:
+    {:count=>1, :total=>322, :max=>322, :min=>322, :avg=>322.0}
+-------------------------
+
+2017-11-08 03:04:41,624 [DEBUG] -- Изменена настройка seq_79_uobj = '400793016000'
+2017-11-08 03:04:41,624 [INFO] -- ----> Ntf handle time stat {"10.247.2.236:49057"=>{"SettingsNotifier"=>{:count=>1, :total=>0.0, :max=>0.0, :min=>0.0, :avg=>0}}}
+2017-11-08 03:05:01,044 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:05:00 MSK 2017 count: 60 max: 1001ms min: 669ms avg: 994ms
+2017-11-08 03:06:01,054 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:06:00 MSK 2017 count: 60 max: 1001ms min: 679ms avg: 994ms
+2017-11-08 03:07:01,065 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:07:00 MSK 2017 count: 60 max: 1001ms min: 687ms avg: 995ms
+2017-11-08 03:08:01,074 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:08:00 MSK 2017 count: 60 max: 1001ms min: 691ms avg: 995ms
+2017-11-08 03:09:01,083 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:09:00 MSK 2017 count: 60 max: 1001ms min: 699ms avg: 995ms
+2017-11-08 03:09:44,842 [WARN] -- SPP4222. resultSet == null
+2017-11-08 03:10:01,092 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:10:00 MSK 2017 count: 60 max: 1001ms min: 707ms avg: 995ms
+2017-11-08 03:11:01,102 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:11:00 MSK 2017 count: 60 max: 1001ms min: 714ms avg: 995ms
+2017-11-08 03:12:01,113 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:12:00 MSK 2017 count: 60 max: 1001ms min: 720ms avg: 995ms
+2017-11-08 03:13:01,121 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:13:00 MSK 2017 count: 60 max: 1004ms min: 727ms avg: 995ms
+2017-11-08 03:14:01,132 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:14:00 MSK 2017 count: 60 max: 1002ms min: 736ms avg: 995ms
+2017-11-08 03:14:47,821 [WARN] -- SPP4222. resultSet == null
+2017-11-08 03:15:01,141 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:15:00 MSK 2017 count: 60 max: 1001ms min: 745ms avg: 996ms
+2017-11-08 03:16:01,151 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:16:00 MSK 2017 count: 60 max: 1001ms min: 754ms avg: 996ms
+2017-11-08 03:17:01,162 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:17:00 MSK 2017 count: 60 max: 1001ms min: 763ms avg: 996ms
+2017-11-08 03:18:01,173 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:18:00 MSK 2017 count: 60 max: 1001ms min: 771ms avg: 996ms
+2017-11-08 03:19:01,186 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:19:00 MSK 2017 count: 60 max: 1001ms min: 778ms avg: 996ms
+2017-11-08 03:19:51,197 [WARN] -- SPP4222. resultSet == null
+2017-11-08 03:20:01,196 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:20:00 MSK 2017 count: 60 max: 1001ms min: 782ms avg: 996ms
+2017-11-08 03:21:01,206 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:21:01 MSK 2017 count: 60 max: 1002ms min: 787ms avg: 996ms
+2017-11-08 03:22:01,216 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:22:01 MSK 2017 count: 60 max: 1001ms min: 794ms avg: 996ms
+2017-11-08 03:23:01,226 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:23:01 MSK 2017 count: 60 max: 1001ms min: 802ms avg: 996ms
+2017-11-08 03:24:01,235 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:24:01 MSK 2017 count: 60 max: 1001ms min: 809ms avg: 997ms
+2017-11-08 03:24:54,518 [WARN] -- SPP4222. resultSet == null
+2017-11-08 03:25:01,242 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:25:01 MSK 2017 count: 60 max: 1001ms min: 817ms avg: 997ms
+2017-11-08 03:26:01,252 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:26:01 MSK 2017 count: 60 max: 1001ms min: 828ms avg: 997ms
+2017-11-08 03:27:01,261 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:27:01 MSK 2017 count: 60 max: 1001ms min: 837ms avg: 997ms
+2017-11-08 03:28:01,271 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:28:01 MSK 2017 count: 60 max: 1001ms min: 847ms avg: 997ms
+2017-11-08 03:29:01,279 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:29:01 MSK 2017 count: 60 max: 1001ms min: 855ms avg: 997ms
+2017-11-08 03:29:57,734 [WARN] -- SPP4222. resultSet == null
+2017-11-08 03:30:01,288 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:30:01 MSK 2017 count: 60 max: 1001ms min: 864ms avg: 998ms
+2017-11-08 03:31:01,298 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:31:01 MSK 2017 count: 60 max: 1001ms min: 871ms avg: 998ms
+2017-11-08 03:32:01,309 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:32:01 MSK 2017 count: 60 max: 1001ms min: 878ms avg: 998ms
+2017-11-08 03:33:01,318 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:33:01 MSK 2017 count: 60 max: 1001ms min: 885ms avg: 998ms
+2017-11-08 03:34:01,328 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:34:01 MSK 2017 count: 60 max: 1001ms min: 894ms avg: 998ms
+2017-11-08 03:35:01,134 [WARN] -- SPP4222. resultSet == null
+2017-11-08 03:35:01,338 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:35:01 MSK 2017 count: 60 max: 1001ms min: 902ms avg: 998ms
+2017-11-08 03:36:01,346 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:36:01 MSK 2017 count: 60 max: 1001ms min: 910ms avg: 998ms
+2017-11-08 03:37:01,356 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:37:01 MSK 2017 count: 60 max: 1001ms min: 919ms avg: 998ms
+2017-11-08 03:38:01,365 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:38:01 MSK 2017 count: 60 max: 1001ms min: 925ms avg: 999ms
+2017-11-08 03:39:01,376 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:39:01 MSK 2017 count: 60 max: 1001ms min: 934ms avg: 999ms
+2017-11-08 03:40:01,386 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:40:01 MSK 2017 count: 60 max: 1001ms min: 940ms avg: 999ms
+2017-11-08 03:40:04,571 [WARN] -- SPP4222. resultSet == null
+2017-11-08 03:41:01,396 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:41:01 MSK 2017 count: 60 max: 1001ms min: 948ms avg: 999ms
+2017-11-08 03:42:01,403 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:42:01 MSK 2017 count: 60 max: 1001ms min: 955ms avg: 999ms
+2017-11-08 03:43:01,413 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:43:01 MSK 2017 count: 60 max: 1001ms min: 967ms avg: 999ms
+2017-11-08 03:44:01,422 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:44:01 MSK 2017 count: 60 max: 1001ms min: 974ms avg: 999ms
+2017-11-08 03:45:01,431 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:45:01 MSK 2017 count: 60 max: 1001ms min: 986ms avg: 1000ms
+2017-11-08 03:45:07,769 [WARN] -- SPP4222. resultSet == null
+2017-11-08 03:46:01,440 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:46:00 MSK 2017 count: 59 max: 1003ms min: 994ms avg: 1000ms
+2017-11-08 03:47:01,448 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:47:00 MSK 2017 count: 60 max: 1001ms min: 2ms avg: 983ms
+2017-11-08 03:48:01,456 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:48:00 MSK 2017 count: 60 max: 1001ms min: 8ms avg: 983ms
+2017-11-08 03:49:01,463 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:49:00 MSK 2017 count: 60 max: 1001ms min: 14ms avg: 983ms
+2017-11-08 03:50:01,470 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:50:00 MSK 2017 count: 60 max: 1001ms min: 20ms avg: 983ms
+2017-11-08 03:50:11,141 [WARN] -- SPP4222. resultSet == null
+2017-11-08 03:51:01,481 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:51:00 MSK 2017 count: 60 max: 1001ms min: 27ms avg: 984ms
+2017-11-08 03:52:01,491 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:52:00 MSK 2017 count: 60 max: 1001ms min: 30ms avg: 984ms
+2017-11-08 03:53:01,501 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:53:00 MSK 2017 count: 60 max: 1004ms min: 37ms avg: 984ms
+2017-11-08 03:54:01,514 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:54:00 MSK 2017 count: 60 max: 1001ms min: 44ms avg: 984ms
+2017-11-08 03:55:01,524 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:55:00 MSK 2017 count: 60 max: 1001ms min: 48ms avg: 984ms
+2017-11-08 03:55:14,528 [WARN] -- SPP4222. resultSet == null
+2017-11-08 03:55:14,807 [INFO] -- -----> Ntf perf: {:period=>"69194 sec", :bytes=>"0.11 b/sec", :max_bytes=>"16.65 b/sec", :min_bytes=>"0.08 b/sec", :avg_bytes=>"0.22 b/sec", :ntf=>"0 ntf/sec", :max_ntf=>"0.05 ntf/sec", :min_ntf=>"0 ntf/sec", :avg_ntf=>"0 ntf/sec"}
+2017-11-08 03:55:14,807 [INFO] -- -----> Queue stats: {:in_q=>0, :ntf_proxy_q=>0, :zk_q=>0, :ntf_in_q=>0, :ntf_out_q=>0, :clients_n=>1, :sender_out=>0, :sender_in=>0, :sender_b=>6057, :cluster_b=>0, :time_b=>0, :plugin_q=>0, :space_q=>0}
+2017-11-08 03:55:14,807 [INFO] -- -----> Ntf size stats: 
+10.247.2.236:49057:
+  class:SettingsNotifier:
+    {:count=>1, :total=>322, :max=>322, :min=>322, :avg=>322.0}
+-------------------------
+
+2017-11-08 03:55:14,807 [DEBUG] -- Изменена настройка seq_79_uobj = '400793020000'
+2017-11-08 03:55:14,807 [INFO] -- ----> Ntf handle time stat {"10.247.2.236:49057"=>{"SettingsNotifier"=>{:count=>1, :total=>0.0, :max=>0.0, :min=>0.0, :avg=>0}}}
+2017-11-08 03:56:01,534 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:56:00 MSK 2017 count: 60 max: 1001ms min: 55ms avg: 984ms
+2017-11-08 03:57:01,545 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:57:00 MSK 2017 count: 60 max: 1001ms min: 61ms avg: 984ms
+2017-11-08 03:58:01,555 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:58:00 MSK 2017 count: 60 max: 1001ms min: 68ms avg: 984ms
+2017-11-08 03:59:01,565 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 03:59:00 MSK 2017 count: 60 max: 1001ms min: 74ms avg: 984ms
+2017-11-08 04:00:01,573 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:00:00 MSK 2017 count: 60 max: 1008ms min: 82ms avg: 985ms
+2017-11-08 04:00:17,793 [WARN] -- SPP4222. resultSet == null
+2017-11-08 04:01:01,583 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:01:00 MSK 2017 count: 60 max: 1001ms min: 100ms avg: 985ms
+2017-11-08 04:02:01,592 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:02:00 MSK 2017 count: 60 max: 1001ms min: 108ms avg: 985ms
+2017-11-08 04:03:01,600 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:03:00 MSK 2017 count: 60 max: 1001ms min: 114ms avg: 985ms
+2017-11-08 04:04:01,609 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:04:00 MSK 2017 count: 60 max: 1001ms min: 123ms avg: 985ms
+2017-11-08 04:05:01,620 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:05:00 MSK 2017 count: 60 max: 1004ms min: 130ms avg: 985ms
+2017-11-08 04:05:21,027 [WARN] -- SPP4222. resultSet == null
+2017-11-08 04:06:01,629 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:06:00 MSK 2017 count: 60 max: 1002ms min: 136ms avg: 985ms
+2017-11-08 04:07:01,639 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:07:00 MSK 2017 count: 60 max: 1001ms min: 143ms avg: 985ms
+2017-11-08 04:08:01,648 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:08:00 MSK 2017 count: 60 max: 1001ms min: 150ms avg: 986ms
+2017-11-08 04:09:01,657 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:09:00 MSK 2017 count: 60 max: 1001ms min: 158ms avg: 986ms
+2017-11-08 04:10:01,665 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:10:00 MSK 2017 count: 60 max: 1002ms min: 165ms avg: 986ms
+2017-11-08 04:10:24,316 [WARN] -- SPP4222. resultSet == null
+2017-11-08 04:11:01,672 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:11:00 MSK 2017 count: 60 max: 1002ms min: 176ms avg: 986ms
+2017-11-08 04:12:01,679 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:12:00 MSK 2017 count: 60 max: 1001ms min: 186ms avg: 986ms
+2017-11-08 04:13:01,686 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:13:00 MSK 2017 count: 60 max: 1001ms min: 198ms avg: 986ms
+2017-11-08 04:14:01,694 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:14:00 MSK 2017 count: 60 max: 1002ms min: 208ms avg: 987ms
+2017-11-08 04:15:01,703 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:15:00 MSK 2017 count: 60 max: 1001ms min: 216ms avg: 987ms
+2017-11-08 04:15:29,841 [WARN] -- SPP4222. resultSet == null
+2017-11-08 04:16:01,711 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:16:00 MSK 2017 count: 60 max: 1001ms min: 224ms avg: 987ms
+2017-11-08 04:17:01,720 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:17:00 MSK 2017 count: 60 max: 1001ms min: 233ms avg: 987ms
+2017-11-08 04:18:01,729 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:18:00 MSK 2017 count: 60 max: 1001ms min: 242ms avg: 987ms
+2017-11-08 04:19:01,741 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:19:00 MSK 2017 count: 60 max: 1001ms min: 248ms avg: 987ms
+2017-11-08 04:20:01,750 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:20:01 MSK 2017 count: 60 max: 1001ms min: 253ms avg: 987ms
+2017-11-08 04:20:32,979 [WARN] -- SPP4222. resultSet == null
+2017-11-08 04:21:01,757 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:21:01 MSK 2017 count: 60 max: 1001ms min: 261ms avg: 987ms
+2017-11-08 04:22:01,766 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:22:01 MSK 2017 count: 60 max: 1001ms min: 271ms avg: 988ms
+2017-11-08 04:23:01,774 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:23:01 MSK 2017 count: 60 max: 1001ms min: 278ms avg: 988ms
+2017-11-08 04:24:01,781 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:24:01 MSK 2017 count: 60 max: 1001ms min: 287ms avg: 988ms
+2017-11-08 04:25:01,790 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:25:01 MSK 2017 count: 60 max: 1001ms min: 295ms avg: 988ms
+2017-11-08 04:25:36,216 [WARN] -- SPP4222. resultSet == null
+2017-11-08 04:26:01,797 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:26:01 MSK 2017 count: 60 max: 1008ms min: 304ms avg: 988ms
+2017-11-08 04:27:01,804 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:27:01 MSK 2017 count: 60 max: 1001ms min: 322ms avg: 988ms
+2017-11-08 04:28:01,814 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:28:01 MSK 2017 count: 60 max: 1001ms min: 331ms avg: 989ms
+2017-11-08 04:29:01,825 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:29:01 MSK 2017 count: 60 max: 1001ms min: 340ms avg: 989ms
+2017-11-08 04:30:01,834 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:30:01 MSK 2017 count: 60 max: 1001ms min: 347ms avg: 989ms
+2017-11-08 04:30:39,691 [WARN] -- SPP4222. resultSet == null
+2017-11-08 04:31:01,844 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:31:01 MSK 2017 count: 60 max: 1001ms min: 357ms avg: 989ms
+2017-11-08 04:32:01,854 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:32:01 MSK 2017 count: 60 max: 1008ms min: 365ms avg: 989ms
+2017-11-08 04:33:01,863 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:33:01 MSK 2017 count: 60 max: 1002ms min: 389ms avg: 990ms
+2017-11-08 04:34:01,873 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:34:01 MSK 2017 count: 60 max: 1004ms min: 409ms avg: 990ms
+2017-11-08 04:35:01,883 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:35:01 MSK 2017 count: 60 max: 1004ms min: 430ms avg: 990ms
+2017-11-08 04:35:44,070 [WARN] -- SPP4222. resultSet == null
+2017-11-08 04:36:01,893 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:36:01 MSK 2017 count: 60 max: 1002ms min: 449ms avg: 991ms
+2017-11-08 04:37:01,903 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:37:01 MSK 2017 count: 60 max: 1004ms min: 463ms avg: 991ms
+2017-11-08 04:38:01,913 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:38:01 MSK 2017 count: 60 max: 1001ms min: 482ms avg: 991ms
+2017-11-08 04:39:01,922 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:39:01 MSK 2017 count: 60 max: 1002ms min: 494ms avg: 991ms
+2017-11-08 04:40:01,931 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:40:01 MSK 2017 count: 60 max: 1002ms min: 508ms avg: 992ms
+2017-11-08 04:40:47,427 [WARN] -- SPP4222. resultSet == null
+2017-11-08 04:40:47,745 [INFO] -- -----> Ntf perf: {:period=>"71927 sec", :bytes=>"0.12 b/sec", :max_bytes=>"16.65 b/sec", :min_bytes=>"0.08 b/sec", :avg_bytes=>"0.21 b/sec", :ntf=>"0 ntf/sec", :max_ntf=>"0.05 ntf/sec", :min_ntf=>"0 ntf/sec", :avg_ntf=>"0 ntf/sec"}
+2017-11-08 04:40:47,746 [INFO] -- -----> Queue stats: {:in_q=>0, :ntf_proxy_q=>0, :zk_q=>0, :ntf_in_q=>0, :ntf_out_q=>0, :clients_n=>1, :sender_out=>0, :sender_in=>0, :sender_b=>6057, :cluster_b=>0, :time_b=>0, :plugin_q=>0, :space_q=>0}
+2017-11-08 04:40:47,746 [INFO] -- -----> Ntf size stats: 
+10.247.2.236:49057:
+  class:SettingsNotifier:
+    {:count=>1, :total=>322, :max=>322, :min=>322, :avg=>322.0}
+-------------------------
+
+2017-11-08 04:40:47,746 [DEBUG] -- Изменена настройка seq_79_uobj = '400793024000'
+2017-11-08 04:40:47,746 [INFO] -- ----> Ntf handle time stat {"10.247.2.236:49057"=>{"SettingsNotifier"=>{:count=>1, :total=>0.0, :max=>0.0, :min=>0.0, :avg=>0}}}
+2017-11-08 04:41:01,941 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:41:01 MSK 2017 count: 60 max: 1002ms min: 519ms avg: 992ms
+2017-11-08 04:42:01,952 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:42:01 MSK 2017 count: 60 max: 1002ms min: 530ms avg: 992ms
+2017-11-08 04:43:01,962 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:43:01 MSK 2017 count: 60 max: 1001ms min: 537ms avg: 992ms
+2017-11-08 04:44:01,971 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:44:01 MSK 2017 count: 60 max: 1006ms min: 549ms avg: 992ms
+2017-11-08 04:45:01,985 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:45:01 MSK 2017 count: 60 max: 1002ms min: 561ms avg: 993ms
+2017-11-08 04:45:51,149 [WARN] -- SPP4222. resultSet == null
+2017-11-08 04:46:01,994 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:46:01 MSK 2017 count: 60 max: 1001ms min: 570ms avg: 993ms
+2017-11-08 04:47:02,004 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:47:01 MSK 2017 count: 60 max: 1006ms min: 581ms avg: 993ms
+2017-11-08 04:48:02,014 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:48:01 MSK 2017 count: 60 max: 1001ms min: 592ms avg: 993ms
+2017-11-08 04:49:02,026 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:49:01 MSK 2017 count: 60 max: 1001ms min: 602ms avg: 993ms
+2017-11-08 04:50:02,038 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:50:01 MSK 2017 count: 60 max: 1002ms min: 609ms avg: 993ms
+2017-11-08 04:50:54,515 [WARN] -- SPP4222. resultSet == null
+2017-11-08 04:51:02,047 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:51:01 MSK 2017 count: 60 max: 1001ms min: 616ms avg: 993ms
+2017-11-08 04:52:02,057 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:52:01 MSK 2017 count: 60 max: 1001ms min: 626ms avg: 994ms
+2017-11-08 04:53:02,065 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:53:01 MSK 2017 count: 60 max: 1001ms min: 634ms avg: 994ms
+2017-11-08 04:54:02,074 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:54:01 MSK 2017 count: 60 max: 1001ms min: 643ms avg: 994ms
+2017-11-08 04:55:02,083 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:55:01 MSK 2017 count: 60 max: 1002ms min: 652ms avg: 994ms
+2017-11-08 04:55:57,474 [WARN] -- SPP4222. resultSet == null
+2017-11-08 04:56:02,094 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:56:01 MSK 2017 count: 60 max: 1001ms min: 663ms avg: 994ms
+2017-11-08 04:57:02,106 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:57:01 MSK 2017 count: 60 max: 1001ms min: 671ms avg: 994ms
+2017-11-08 04:58:02,115 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:58:01 MSK 2017 count: 60 max: 1002ms min: 675ms avg: 994ms
+2017-11-08 04:59:02,124 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 04:59:01 MSK 2017 count: 60 max: 1001ms min: 688ms avg: 995ms
+2017-11-08 05:00:02,134 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:00:01 MSK 2017 count: 60 max: 1001ms min: 698ms avg: 995ms
+2017-11-08 05:01:01,382 [WARN] -- SPP4222. resultSet == null
+2017-11-08 05:01:02,141 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:01:01 MSK 2017 count: 60 max: 1023ms min: 705ms avg: 995ms
+2017-11-08 05:02:02,151 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:02:01 MSK 2017 count: 60 max: 1001ms min: 716ms avg: 995ms
+2017-11-08 05:03:02,158 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:03:01 MSK 2017 count: 60 max: 1001ms min: 724ms avg: 995ms
+2017-11-08 05:04:02,166 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:04:01 MSK 2017 count: 60 max: 1003ms min: 736ms avg: 995ms
+2017-11-08 05:05:02,176 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:05:01 MSK 2017 count: 60 max: 1002ms min: 752ms avg: 996ms
+2017-11-08 05:06:02,188 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:06:01 MSK 2017 count: 60 max: 1002ms min: 762ms avg: 996ms
+2017-11-08 05:06:04,646 [WARN] -- SPP4222. resultSet == null
+2017-11-08 05:07:02,199 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:07:01 MSK 2017 count: 60 max: 1003ms min: 778ms avg: 996ms
+2017-11-08 05:08:02,209 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:08:02 MSK 2017 count: 60 max: 1001ms min: 792ms avg: 996ms
+2017-11-08 05:09:02,220 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:09:02 MSK 2017 count: 60 max: 1001ms min: 803ms avg: 997ms
+2017-11-08 05:10:02,230 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:10:02 MSK 2017 count: 60 max: 1002ms min: 812ms avg: 997ms
+2017-11-08 05:11:02,242 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:11:02 MSK 2017 count: 60 max: 1010ms min: 823ms avg: 997ms
+2017-11-08 05:11:07,816 [WARN] -- SPP4222. resultSet == null
+2017-11-08 05:12:02,252 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:12:02 MSK 2017 count: 60 max: 1001ms min: 830ms avg: 997ms
+2017-11-08 05:13:02,262 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:13:02 MSK 2017 count: 60 max: 1001ms min: 840ms avg: 997ms
+2017-11-08 05:14:02,273 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:14:02 MSK 2017 count: 60 max: 1001ms min: 851ms avg: 997ms
+2017-11-08 05:15:02,283 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:15:02 MSK 2017 count: 60 max: 1022ms min: 861ms avg: 998ms
+2017-11-08 05:16:02,292 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:16:02 MSK 2017 count: 60 max: 1033ms min: 875ms avg: 998ms
+2017-11-08 05:16:11,770 [WARN] -- SPP4222. resultSet == null
+2017-11-08 05:17:02,301 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:17:02 MSK 2017 count: 60 max: 1001ms min: 920ms avg: 998ms
+2017-11-08 05:18:02,310 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:18:02 MSK 2017 count: 60 max: 1001ms min: 929ms avg: 999ms
+2017-11-08 05:19:02,320 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:19:02 MSK 2017 count: 60 max: 1003ms min: 941ms avg: 999ms
+2017-11-08 05:20:02,332 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:20:02 MSK 2017 count: 60 max: 1001ms min: 950ms avg: 999ms
+2017-11-08 05:21:02,340 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:21:02 MSK 2017 count: 60 max: 1001ms min: 955ms avg: 999ms
+2017-11-08 05:21:14,985 [WARN] -- SPP4222. resultSet == null
+2017-11-08 05:22:02,351 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:22:02 MSK 2017 count: 60 max: 1001ms min: 966ms avg: 999ms
+2017-11-08 05:23:02,359 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:23:02 MSK 2017 count: 60 max: 1001ms min: 974ms avg: 999ms
+2017-11-08 05:24:02,367 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:24:01 MSK 2017 count: 59 max: 1001ms min: 987ms avg: 1000ms
+2017-11-08 05:25:02,377 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:25:01 MSK 2017 count: 59 max: 1001ms min: 1000ms avg: 1000ms
+2017-11-08 05:26:02,388 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:26:01 MSK 2017 count: 60 max: 1001ms min: 6ms avg: 983ms
+2017-11-08 05:26:18,491 [WARN] -- SPP4222. resultSet == null
+2017-11-08 05:27:02,400 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:27:01 MSK 2017 count: 60 max: 1002ms min: 13ms avg: 983ms
+2017-11-08 05:28:02,410 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:28:01 MSK 2017 count: 60 max: 1001ms min: 18ms avg: 983ms
+2017-11-08 05:29:02,422 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:29:01 MSK 2017 count: 60 max: 1001ms min: 25ms avg: 984ms
+2017-11-08 05:30:02,433 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:30:01 MSK 2017 count: 60 max: 1001ms min: 29ms avg: 984ms
+2017-11-08 05:31:02,444 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:31:01 MSK 2017 count: 60 max: 1001ms min: 37ms avg: 984ms
+2017-11-08 05:31:21,799 [WARN] -- SPP4222. resultSet == null
+2017-11-08 05:31:22,144 [INFO] -- -----> Ntf perf: {:period=>"74962 sec", :bytes=>"0.11 b/sec", :max_bytes=>"16.65 b/sec", :min_bytes=>"0.08 b/sec", :avg_bytes=>"0.21 b/sec", :ntf=>"0 ntf/sec", :max_ntf=>"0.05 ntf/sec", :min_ntf=>"0 ntf/sec", :avg_ntf=>"0 ntf/sec"}
+2017-11-08 05:31:22,145 [INFO] -- -----> Queue stats: {:in_q=>0, :ntf_proxy_q=>0, :zk_q=>0, :ntf_in_q=>0, :ntf_out_q=>0, :clients_n=>1, :sender_out=>0, :sender_in=>0, :sender_b=>6057, :cluster_b=>0, :time_b=>0, :plugin_q=>0, :space_q=>0}
+2017-11-08 05:31:22,145 [INFO] -- -----> Ntf size stats: 
+10.247.2.236:49057:
+  class:SettingsNotifier:
+    {:count=>1, :total=>322, :max=>322, :min=>322, :avg=>322.0}
+-------------------------
+
+2017-11-08 05:31:22,145 [DEBUG] -- Изменена настройка seq_79_uobj = '400793028000'
+2017-11-08 05:31:22,145 [INFO] -- ----> Ntf handle time stat {"10.247.2.236:49057"=>{"SettingsNotifier"=>{:count=>1, :total=>0.0, :max=>0.0, :min=>0.0, :avg=>0}}}
+2017-11-08 05:32:02,454 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:32:01 MSK 2017 count: 60 max: 1001ms min: 43ms avg: 984ms
+2017-11-08 05:33:02,465 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:33:01 MSK 2017 count: 60 max: 1001ms min: 53ms avg: 984ms
+2017-11-08 05:34:02,477 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:34:01 MSK 2017 count: 60 max: 1001ms min: 59ms avg: 984ms
+2017-11-08 05:35:02,487 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:35:01 MSK 2017 count: 60 max: 1001ms min: 63ms avg: 984ms
+2017-11-08 05:36:02,496 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:36:01 MSK 2017 count: 60 max: 1001ms min: 69ms avg: 984ms
+2017-11-08 05:36:25,054 [WARN] -- SPP4222. resultSet == null
+2017-11-08 05:37:02,508 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:37:01 MSK 2017 count: 60 max: 1002ms min: 79ms avg: 985ms
+2017-11-08 05:38:02,518 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:38:01 MSK 2017 count: 60 max: 1001ms min: 96ms avg: 985ms
+2017-11-08 05:39:02,529 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:39:01 MSK 2017 count: 60 max: 1001ms min: 106ms avg: 985ms
+2017-11-08 05:40:02,540 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:40:01 MSK 2017 count: 60 max: 1001ms min: 113ms avg: 985ms
+2017-11-08 05:41:02,551 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:41:01 MSK 2017 count: 60 max: 1001ms min: 122ms avg: 985ms
+2017-11-08 05:41:28,262 [WARN] -- SPP4222. resultSet == null
+2017-11-08 05:42:02,562 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:42:01 MSK 2017 count: 60 max: 1001ms min: 128ms avg: 985ms
+2017-11-08 05:43:02,573 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:43:01 MSK 2017 count: 60 max: 1001ms min: 136ms avg: 985ms
+2017-11-08 05:44:02,585 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:44:01 MSK 2017 count: 60 max: 1002ms min: 145ms avg: 986ms
+2017-11-08 05:45:02,596 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:45:01 MSK 2017 count: 60 max: 1001ms min: 153ms avg: 986ms
+2017-11-08 05:46:02,605 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:46:01 MSK 2017 count: 60 max: 1001ms min: 162ms avg: 986ms
+2017-11-08 05:46:31,468 [WARN] -- SPP4222. resultSet == null
+2017-11-08 05:47:02,613 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:47:01 MSK 2017 count: 60 max: 1001ms min: 174ms avg: 986ms
+2017-11-08 05:48:02,621 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:48:01 MSK 2017 count: 60 max: 1002ms min: 183ms avg: 986ms
+2017-11-08 05:49:02,631 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:49:01 MSK 2017 count: 60 max: 1001ms min: 193ms avg: 986ms
+2017-11-08 05:50:02,640 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:50:01 MSK 2017 count: 60 max: 1001ms min: 201ms avg: 986ms
+2017-11-08 05:51:02,649 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:51:01 MSK 2017 count: 60 max: 1001ms min: 208ms avg: 987ms
+2017-11-08 05:51:34,767 [WARN] -- SPP4222. resultSet == null
+2017-11-08 05:52:02,660 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:52:01 MSK 2017 count: 60 max: 1001ms min: 217ms avg: 987ms
+2017-11-08 05:53:02,669 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:53:01 MSK 2017 count: 60 max: 1001ms min: 223ms avg: 987ms
+2017-11-08 05:54:02,679 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:54:01 MSK 2017 count: 60 max: 1001ms min: 233ms avg: 987ms
+2017-11-08 05:55:02,690 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:55:01 MSK 2017 count: 60 max: 1001ms min: 240ms avg: 987ms
+2017-11-08 05:56:02,701 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:56:01 MSK 2017 count: 60 max: 1001ms min: 245ms avg: 987ms
+2017-11-08 05:56:40,833 [WARN] -- SPP4222. resultSet == null
+2017-11-08 05:57:02,712 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:57:01 MSK 2017 count: 60 max: 1001ms min: 251ms avg: 987ms
+2017-11-08 05:58:02,722 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:58:01 MSK 2017 count: 60 max: 1001ms min: 258ms avg: 987ms
+2017-11-08 05:59:02,731 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 05:59:02 MSK 2017 count: 60 max: 1001ms min: 266ms avg: 988ms
+2017-11-08 06:00:02,740 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:00:02 MSK 2017 count: 60 max: 1001ms min: 275ms avg: 988ms
+2017-11-08 06:01:02,752 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:01:02 MSK 2017 count: 60 max: 1001ms min: 283ms avg: 988ms
+2017-11-08 06:01:48,012 [WARN] -- SPP4222. resultSet == null
+2017-11-08 06:02:02,761 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:02:02 MSK 2017 count: 60 max: 1001ms min: 291ms avg: 988ms
+2017-11-08 06:03:02,770 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:03:02 MSK 2017 count: 60 max: 1001ms min: 300ms avg: 988ms
+2017-11-08 06:04:02,781 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:04:02 MSK 2017 count: 60 max: 1002ms min: 309ms avg: 988ms
+2017-11-08 06:05:02,793 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:05:02 MSK 2017 count: 60 max: 1001ms min: 315ms avg: 988ms
+2017-11-08 06:06:02,804 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:06:02 MSK 2017 count: 60 max: 1001ms min: 321ms avg: 988ms
+2017-11-08 06:06:57,814 [WARN] -- SPP4222. resultSet == null
+2017-11-08 06:07:02,812 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:07:02 MSK 2017 count: 60 max: 1001ms min: 326ms avg: 989ms
+2017-11-08 06:08:02,820 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:08:02 MSK 2017 count: 60 max: 1001ms min: 337ms avg: 989ms
+2017-11-08 06:09:02,830 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:09:02 MSK 2017 count: 60 max: 1001ms min: 345ms avg: 989ms
+2017-11-08 06:10:02,839 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:10:02 MSK 2017 count: 60 max: 1001ms min: 353ms avg: 989ms
+2017-11-08 06:11:02,849 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:11:02 MSK 2017 count: 60 max: 1001ms min: 363ms avg: 989ms
+2017-11-08 06:12:02,858 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:12:02 MSK 2017 count: 60 max: 1001ms min: 372ms avg: 989ms
+2017-11-08 06:12:03,451 [WARN] -- SPP4222. resultSet == null
+2017-11-08 06:13:02,869 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:13:02 MSK 2017 count: 60 max: 1001ms min: 382ms avg: 989ms
+2017-11-08 06:14:02,878 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:14:02 MSK 2017 count: 60 max: 1001ms min: 389ms avg: 990ms
+2017-11-08 06:15:02,889 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:15:02 MSK 2017 count: 60 max: 1001ms min: 399ms avg: 990ms
+2017-11-08 06:16:02,898 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:16:02 MSK 2017 count: 60 max: 1001ms min: 407ms avg: 990ms
+2017-11-08 06:17:02,907 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:17:02 MSK 2017 count: 60 max: 1001ms min: 416ms avg: 990ms
+2017-11-08 06:17:09,490 [WARN] -- SPP4222. resultSet == null
+2017-11-08 06:18:02,918 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:18:02 MSK 2017 count: 60 max: 1001ms min: 426ms avg: 990ms
+2017-11-08 06:19:02,929 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:19:02 MSK 2017 count: 60 max: 1025ms min: 432ms avg: 990ms
+2017-11-08 06:20:02,939 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:20:02 MSK 2017 count: 60 max: 1049ms min: 446ms avg: 991ms
+2017-11-08 06:21:02,949 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:21:02 MSK 2017 count: 60 max: 1036ms min: 475ms avg: 992ms
+2017-11-08 06:22:02,959 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:22:02 MSK 2017 count: 60 max: 1004ms min: 523ms avg: 992ms
+2017-11-08 06:22:13,541 [WARN] -- SPP4222. resultSet == null
+2017-11-08 06:22:13,976 [INFO] -- -----> Ntf perf: {:period=>"78014 sec", :bytes=>"0.11 b/sec", :max_bytes=>"16.65 b/sec", :min_bytes=>"0.08 b/sec", :avg_bytes=>"0.2 b/sec", :ntf=>"0 ntf/sec", :max_ntf=>"0.05 ntf/sec", :min_ntf=>"0 ntf/sec", :avg_ntf=>"0 ntf/sec"}
+2017-11-08 06:22:13,976 [INFO] -- -----> Queue stats: {:in_q=>0, :ntf_proxy_q=>0, :zk_q=>0, :ntf_in_q=>0, :ntf_out_q=>0, :clients_n=>1, :sender_out=>0, :sender_in=>0, :sender_b=>6057, :cluster_b=>0, :time_b=>0, :plugin_q=>0, :space_q=>0}
+2017-11-08 06:22:13,976 [INFO] -- -----> Ntf size stats: 
+10.247.2.236:49057:
+  class:SettingsNotifier:
+    {:count=>1, :total=>322, :max=>322, :min=>322, :avg=>322.0}
+-------------------------
+
+2017-11-08 06:22:13,977 [DEBUG] -- Изменена настройка seq_79_uobj = '400793032000'
+2017-11-08 06:22:13,977 [INFO] -- ----> Ntf handle time stat {"10.247.2.236:49057"=>{"SettingsNotifier"=>{:count=>1, :total=>0.0, :max=>0.0, :min=>0.0, :avg=>0}}}
+2017-11-08 06:23:02,969 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:23:02 MSK 2017 count: 60 max: 1003ms min: 541ms avg: 992ms
+2017-11-08 06:24:02,979 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:24:02 MSK 2017 count: 60 max: 1001ms min: 564ms avg: 993ms
+2017-11-08 06:25:02,987 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:25:02 MSK 2017 count: 60 max: 1002ms min: 575ms avg: 993ms
+2017-11-08 06:26:02,998 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:26:02 MSK 2017 count: 60 max: 1002ms min: 590ms avg: 993ms
+2017-11-08 06:27:03,009 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:27:02 MSK 2017 count: 60 max: 1003ms min: 603ms avg: 993ms
+2017-11-08 06:27:19,980 [WARN] -- SPP4222. resultSet == null
+2017-11-08 06:28:03,019 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:28:02 MSK 2017 count: 60 max: 1002ms min: 618ms avg: 994ms
+2017-11-08 06:29:03,028 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:29:02 MSK 2017 count: 60 max: 1002ms min: 633ms avg: 994ms
+2017-11-08 06:30:03,037 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:30:02 MSK 2017 count: 60 max: 1002ms min: 647ms avg: 994ms
+2017-11-08 06:31:03,046 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:31:02 MSK 2017 count: 60 max: 1002ms min: 659ms avg: 994ms
+2017-11-08 06:32:03,054 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:32:02 MSK 2017 count: 60 max: 1002ms min: 669ms avg: 994ms
+2017-11-08 06:32:24,068 [WARN] -- SPP4222. resultSet == null
+2017-11-08 06:33:03,063 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:33:02 MSK 2017 count: 60 max: 1001ms min: 680ms avg: 994ms
+2017-11-08 06:34:03,072 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:34:02 MSK 2017 count: 60 max: 1001ms min: 688ms avg: 995ms
+2017-11-08 06:35:03,085 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:35:02 MSK 2017 count: 60 max: 1001ms min: 700ms avg: 995ms
+2017-11-08 06:36:03,097 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:36:02 MSK 2017 count: 60 max: 1001ms min: 703ms avg: 995ms
+2017-11-08 06:37:03,107 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:37:02 MSK 2017 count: 60 max: 1001ms min: 709ms avg: 995ms
+2017-11-08 06:37:29,705 [WARN] -- SPP4222. resultSet == null
+2017-11-08 06:38:03,118 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:38:02 MSK 2017 count: 60 max: 1002ms min: 719ms avg: 995ms
+2017-11-08 06:39:03,129 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:39:02 MSK 2017 count: 60 max: 1002ms min: 727ms avg: 995ms
+2017-11-08 06:40:03,138 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:40:02 MSK 2017 count: 60 max: 1001ms min: 734ms avg: 995ms
+2017-11-08 06:41:03,149 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:41:02 MSK 2017 count: 60 max: 1004ms min: 742ms avg: 995ms
+2017-11-08 06:42:03,158 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:42:02 MSK 2017 count: 60 max: 1001ms min: 747ms avg: 996ms
+2017-11-08 06:42:35,303 [WARN] -- SPP4222. resultSet == null
+2017-11-08 06:43:03,170 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:43:02 MSK 2017 count: 60 max: 1001ms min: 757ms avg: 996ms
+2017-11-08 06:44:03,181 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:44:02 MSK 2017 count: 60 max: 1001ms min: 762ms avg: 996ms
+2017-11-08 06:45:03,193 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:45:02 MSK 2017 count: 60 max: 1001ms min: 770ms avg: 996ms
+2017-11-08 06:46:03,202 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:46:02 MSK 2017 count: 60 max: 1001ms min: 774ms avg: 996ms
+2017-11-08 06:47:03,210 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:47:03 MSK 2017 count: 60 max: 1001ms min: 781ms avg: 996ms
+2017-11-08 06:47:38,602 [WARN] -- SPP4222. resultSet == null
+2017-11-08 06:48:03,218 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:48:03 MSK 2017 count: 60 max: 1001ms min: 791ms avg: 996ms
+2017-11-08 06:49:03,227 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:49:03 MSK 2017 count: 60 max: 1001ms min: 802ms avg: 997ms
+2017-11-08 06:50:03,237 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:50:03 MSK 2017 count: 60 max: 1004ms min: 811ms avg: 997ms
+2017-11-08 06:51:03,246 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:51:03 MSK 2017 count: 60 max: 1001ms min: 817ms avg: 997ms
+2017-11-08 06:52:03,253 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:52:03 MSK 2017 count: 60 max: 1001ms min: 824ms avg: 997ms
+2017-11-08 06:52:43,004 [WARN] -- SPP4222. resultSet == null
+2017-11-08 06:53:03,264 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:53:03 MSK 2017 count: 60 max: 1001ms min: 837ms avg: 997ms
+2017-11-08 06:54:03,275 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:54:03 MSK 2017 count: 60 max: 1001ms min: 846ms avg: 997ms
+2017-11-08 06:55:03,283 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:55:03 MSK 2017 count: 60 max: 1001ms min: 853ms avg: 997ms
+2017-11-08 06:56:03,294 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:56:03 MSK 2017 count: 60 max: 1001ms min: 864ms avg: 998ms
+2017-11-08 06:57:03,304 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:57:03 MSK 2017 count: 60 max: 1001ms min: 871ms avg: 998ms
+2017-11-08 06:57:48,483 [WARN] -- SPP4222. resultSet == null
+2017-11-08 06:58:03,314 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:58:03 MSK 2017 count: 60 max: 1001ms min: 880ms avg: 998ms
+2017-11-08 06:59:03,325 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 06:59:03 MSK 2017 count: 60 max: 1001ms min: 887ms avg: 998ms
+2017-11-08 07:00:03,334 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:00:03 MSK 2017 count: 60 max: 1001ms min: 895ms avg: 998ms
+2017-11-08 07:01:03,342 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:01:03 MSK 2017 count: 60 max: 1001ms min: 904ms avg: 998ms
+2017-11-08 07:02:03,352 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:02:03 MSK 2017 count: 60 max: 1001ms min: 915ms avg: 998ms
+2017-11-08 07:02:52,711 [WARN] -- SPP4222. resultSet == null
+2017-11-08 07:03:03,361 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:03:03 MSK 2017 count: 60 max: 1001ms min: 924ms avg: 999ms
+2017-11-08 07:04:03,370 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:04:03 MSK 2017 count: 60 max: 1001ms min: 933ms avg: 999ms
+2017-11-08 07:05:03,380 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:05:03 MSK 2017 count: 60 max: 1001ms min: 942ms avg: 999ms
+2017-11-08 07:06:03,390 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:06:03 MSK 2017 count: 60 max: 1001ms min: 952ms avg: 999ms
+2017-11-08 07:07:03,400 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:07:03 MSK 2017 count: 60 max: 1001ms min: 963ms avg: 999ms
+2017-11-08 07:07:57,236 [WARN] -- SPP4222. resultSet == null
+2017-11-08 07:08:03,409 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:08:03 MSK 2017 count: 60 max: 1001ms min: 972ms avg: 999ms
+2017-11-08 07:09:03,418 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:09:03 MSK 2017 count: 60 max: 1001ms min: 981ms avg: 999ms
+2017-11-08 07:10:03,427 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:10:02 MSK 2017 count: 59 max: 1001ms min: 989ms avg: 1000ms
+2017-11-08 07:11:03,439 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:11:02 MSK 2017 count: 60 max: 1001ms min: 1ms avg: 983ms
+2017-11-08 07:12:03,447 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:12:02 MSK 2017 count: 60 max: 1001ms min: 4ms avg: 983ms
+2017-11-08 07:13:01,852 [WARN] -- SPP4222. resultSet == null
+2017-11-08 07:13:03,456 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:13:02 MSK 2017 count: 60 max: 1001ms min: 11ms avg: 983ms
+2017-11-08 07:14:03,468 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:14:02 MSK 2017 count: 60 max: 1001ms min: 16ms avg: 983ms
+2017-11-08 07:15:03,476 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:15:02 MSK 2017 count: 60 max: 1001ms min: 17ms avg: 983ms
+2017-11-08 07:16:03,486 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:16:02 MSK 2017 count: 60 max: 1001ms min: 24ms avg: 983ms
+2017-11-08 07:17:03,494 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:17:02 MSK 2017 count: 60 max: 1003ms min: 30ms avg: 984ms
+2017-11-08 07:18:03,503 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:18:02 MSK 2017 count: 60 max: 1002ms min: 38ms avg: 984ms
+2017-11-08 07:18:08,134 [WARN] -- SPP4222. resultSet == null
+2017-11-08 07:18:08,598 [INFO] -- -----> Ntf perf: {:period=>"81368 sec", :bytes=>"0.1 b/sec", :max_bytes=>"16.65 b/sec", :min_bytes=>"0.08 b/sec", :avg_bytes=>"0.2 b/sec", :ntf=>"0 ntf/sec", :max_ntf=>"0.05 ntf/sec", :min_ntf=>"0 ntf/sec", :avg_ntf=>"0 ntf/sec"}
+2017-11-08 07:18:08,599 [INFO] -- -----> Queue stats: {:in_q=>0, :ntf_proxy_q=>0, :zk_q=>0, :ntf_in_q=>0, :ntf_out_q=>0, :clients_n=>1, :sender_out=>0, :sender_in=>0, :sender_b=>6057, :cluster_b=>0, :time_b=>0, :plugin_q=>0, :space_q=>0}
+2017-11-08 07:18:08,599 [INFO] -- -----> Ntf size stats: 
+10.247.2.236:49057:
+  class:SettingsNotifier:
+    {:count=>1, :total=>322, :max=>322, :min=>322, :avg=>322.0}
+-------------------------
+
+2017-11-08 07:18:08,599 [DEBUG] -- Изменена настройка seq_79_uobj = '400793036000'
+2017-11-08 07:18:08,599 [INFO] -- ----> Ntf handle time stat {"10.247.2.236:49057"=>{"SettingsNotifier"=>{:count=>1, :total=>0.0, :max=>0.0, :min=>0.0, :avg=>0}}}
+2017-11-08 07:19:03,513 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:19:02 MSK 2017 count: 60 max: 1001ms min: 45ms avg: 984ms
+2017-11-08 07:20:03,524 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:20:02 MSK 2017 count: 60 max: 1001ms min: 50ms avg: 984ms
+2017-11-08 07:21:03,534 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:21:02 MSK 2017 count: 60 max: 1001ms min: 58ms avg: 984ms
+2017-11-08 07:22:03,544 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:22:02 MSK 2017 count: 60 max: 1001ms min: 64ms avg: 984ms
+2017-11-08 07:23:03,553 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:23:02 MSK 2017 count: 60 max: 1001ms min: 69ms avg: 984ms
+2017-11-08 07:23:11,477 [WARN] -- SPP4222. resultSet == null
+2017-11-08 07:24:03,561 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:24:02 MSK 2017 count: 60 max: 1001ms min: 75ms avg: 984ms
+2017-11-08 07:25:03,569 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:25:02 MSK 2017 count: 60 max: 1001ms min: 81ms avg: 984ms
+2017-11-08 07:26:03,579 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:26:02 MSK 2017 count: 60 max: 1001ms min: 87ms avg: 985ms
+2017-11-08 07:27:03,597 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:27:02 MSK 2017 count: 60 max: 1001ms min: 91ms avg: 985ms
+2017-11-08 07:28:03,610 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:28:02 MSK 2017 count: 60 max: 1001ms min: 91ms avg: 985ms
+2017-11-08 07:28:17,180 [WARN] -- SPP4222. resultSet == null
+2017-11-08 07:29:03,619 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:29:02 MSK 2017 count: 60 max: 1001ms min: 92ms avg: 985ms
+2017-11-08 07:30:03,627 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:30:02 MSK 2017 count: 60 max: 1001ms min: 99ms avg: 985ms
+2017-11-08 07:31:03,638 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:31:02 MSK 2017 count: 60 max: 1001ms min: 106ms avg: 985ms
+2017-11-08 07:32:03,649 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:32:02 MSK 2017 count: 60 max: 1003ms min: 110ms avg: 985ms
+2017-11-08 07:33:03,660 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:33:02 MSK 2017 count: 60 max: 1002ms min: 125ms avg: 985ms
+2017-11-08 07:33:22,742 [WARN] -- SPP4222. resultSet == null
+2017-11-08 07:34:03,671 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:34:02 MSK 2017 count: 60 max: 1002ms min: 145ms avg: 986ms
+2017-11-08 07:35:03,682 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:35:02 MSK 2017 count: 60 max: 1002ms min: 155ms avg: 986ms
+2017-11-08 07:36:03,691 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:36:02 MSK 2017 count: 60 max: 1002ms min: 166ms avg: 986ms
+2017-11-08 07:37:03,702 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:37:02 MSK 2017 count: 60 max: 1001ms min: 177ms avg: 986ms
+2017-11-08 07:38:03,714 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:38:02 MSK 2017 count: 60 max: 1001ms min: 186ms avg: 986ms
+2017-11-08 07:38:28,164 [WARN] -- SPP4222. resultSet == null
+2017-11-08 07:39:03,723 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:39:02 MSK 2017 count: 60 max: 1001ms min: 191ms avg: 986ms
+2017-11-08 07:40:03,734 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:40:02 MSK 2017 count: 60 max: 1002ms min: 199ms avg: 986ms
+2017-11-08 07:41:03,745 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:41:02 MSK 2017 count: 60 max: 1001ms min: 206ms avg: 987ms
+2017-11-08 07:42:03,755 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:42:02 MSK 2017 count: 60 max: 1001ms min: 213ms avg: 987ms
+2017-11-08 07:43:03,766 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:43:02 MSK 2017 count: 60 max: 1001ms min: 224ms avg: 987ms
+2017-11-08 07:43:31,722 [WARN] -- SPP4222. resultSet == null
+2017-11-08 07:44:03,776 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:44:03 MSK 2017 count: 60 max: 1001ms min: 234ms avg: 987ms
+2017-11-08 07:45:03,786 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:45:03 MSK 2017 count: 60 max: 1001ms min: 241ms avg: 987ms
+2017-11-08 07:46:03,796 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:46:03 MSK 2017 count: 60 max: 1003ms min: 250ms avg: 987ms
+2017-11-08 07:47:03,805 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:47:03 MSK 2017 count: 60 max: 1001ms min: 258ms avg: 987ms
+2017-11-08 07:48:03,814 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:48:03 MSK 2017 count: 60 max: 1001ms min: 266ms avg: 988ms
+2017-11-08 07:48:36,782 [WARN] -- SPP4222. resultSet == null
+2017-11-08 07:49:03,825 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:49:03 MSK 2017 count: 60 max: 1001ms min: 277ms avg: 988ms
+2017-11-08 07:50:03,836 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:50:03 MSK 2017 count: 60 max: 1003ms min: 282ms avg: 988ms
+2017-11-08 07:51:03,847 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:51:03 MSK 2017 count: 60 max: 1001ms min: 290ms avg: 988ms
+2017-11-08 07:52:03,858 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:52:03 MSK 2017 count: 60 max: 1001ms min: 297ms avg: 988ms
+2017-11-08 07:53:03,870 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:53:03 MSK 2017 count: 60 max: 1001ms min: 304ms avg: 988ms
+2017-11-08 07:53:42,183 [WARN] -- SPP4222. resultSet == null
+2017-11-08 07:54:03,882 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:54:03 MSK 2017 count: 60 max: 1001ms min: 307ms avg: 988ms
+2017-11-08 07:55:03,894 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:55:03 MSK 2017 count: 60 max: 1001ms min: 314ms avg: 988ms
+2017-11-08 07:56:03,905 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:56:03 MSK 2017 count: 60 max: 1001ms min: 321ms avg: 988ms
+2017-11-08 07:57:03,914 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:57:03 MSK 2017 count: 60 max: 1001ms min: 327ms avg: 989ms
+2017-11-08 07:58:03,926 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:58:03 MSK 2017 count: 60 max: 1001ms min: 335ms avg: 989ms
+2017-11-08 07:58:47,313 [WARN] -- SPP4222. resultSet == null
+2017-11-08 07:59:03,938 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 07:59:03 MSK 2017 count: 60 max: 1001ms min: 339ms avg: 989ms
+2017-11-08 08:00:03,948 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:00:03 MSK 2017 count: 60 max: 1001ms min: 341ms avg: 989ms
+2017-11-08 08:01:03,959 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:01:03 MSK 2017 count: 60 max: 1001ms min: 347ms avg: 989ms
+2017-11-08 08:02:03,969 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:02:03 MSK 2017 count: 60 max: 1001ms min: 354ms avg: 989ms
+2017-11-08 08:03:03,980 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:03:03 MSK 2017 count: 60 max: 1001ms min: 363ms avg: 989ms
+2017-11-08 08:03:52,603 [WARN] -- SPP4222. resultSet == null
+2017-11-08 08:04:03,991 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:04:03 MSK 2017 count: 60 max: 1001ms min: 370ms avg: 989ms
+2017-11-08 08:05:04,000 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:05:03 MSK 2017 count: 60 max: 1001ms min: 376ms avg: 989ms
+2017-11-08 08:06:04,010 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:06:03 MSK 2017 count: 60 max: 1001ms min: 385ms avg: 990ms
+2017-11-08 08:07:04,022 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:07:03 MSK 2017 count: 60 max: 1001ms min: 393ms avg: 990ms
+2017-11-08 08:08:04,031 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:08:03 MSK 2017 count: 60 max: 1004ms min: 398ms avg: 990ms
+2017-11-08 08:08:57,933 [WARN] -- SPP4222. resultSet == null
+2017-11-08 08:09:04,041 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:09:03 MSK 2017 count: 60 max: 1001ms min: 408ms avg: 990ms
+2017-11-08 08:10:04,052 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:10:03 MSK 2017 count: 60 max: 1001ms min: 415ms avg: 990ms
+2017-11-08 08:11:04,061 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:11:03 MSK 2017 count: 60 max: 1001ms min: 423ms avg: 990ms
+2017-11-08 08:12:04,069 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:12:03 MSK 2017 count: 60 max: 1001ms min: 433ms avg: 990ms
+2017-11-08 08:13:04,079 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:13:03 MSK 2017 count: 60 max: 1001ms min: 444ms avg: 991ms
+2017-11-08 08:14:03,453 [WARN] -- SPP4222. resultSet == null
+2017-11-08 08:14:04,090 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:14:03 MSK 2017 count: 60 max: 1001ms min: 451ms avg: 991ms
+2017-11-08 08:15:04,102 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:15:03 MSK 2017 count: 60 max: 1005ms min: 457ms avg: 991ms
+2017-11-08 08:16:04,115 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:16:03 MSK 2017 count: 60 max: 1001ms min: 471ms avg: 991ms
+2017-11-08 08:17:04,126 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:17:03 MSK 2017 count: 60 max: 1001ms min: 477ms avg: 991ms
+2017-11-08 08:18:04,137 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:18:03 MSK 2017 count: 60 max: 1001ms min: 485ms avg: 991ms
+2017-11-08 08:19:04,145 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:19:03 MSK 2017 count: 60 max: 1001ms min: 491ms avg: 991ms
+2017-11-08 08:19:08,915 [WARN] -- SPP4222. resultSet == null
+2017-11-08 08:19:09,106 [INFO] -- -----> Ntf perf: {:period=>"85029 sec", :bytes=>"0.09 b/sec", :max_bytes=>"16.65 b/sec", :min_bytes=>"0.08 b/sec", :avg_bytes=>"0.19 b/sec", :ntf=>"0 ntf/sec", :max_ntf=>"0.05 ntf/sec", :min_ntf=>"0 ntf/sec", :avg_ntf=>"0 ntf/sec"}
+2017-11-08 08:19:09,107 [INFO] -- -----> Queue stats: {:in_q=>0, :ntf_proxy_q=>0, :zk_q=>0, :ntf_in_q=>0, :ntf_out_q=>0, :clients_n=>1, :sender_out=>0, :sender_in=>0, :sender_b=>6057, :cluster_b=>0, :time_b=>0, :plugin_q=>0, :space_q=>0}
+2017-11-08 08:19:09,107 [INFO] -- -----> Ntf size stats: 
+10.247.2.236:49057:
+  class:SettingsNotifier:
+    {:count=>1, :total=>322, :max=>322, :min=>322, :avg=>322.0}
+-------------------------
+
+2017-11-08 08:19:09,107 [DEBUG] -- Изменена настройка seq_79_uobj = '400793040000'
+2017-11-08 08:19:09,107 [INFO] -- ----> Ntf handle time stat {"10.247.2.236:49057"=>{"SettingsNotifier"=>{:count=>1, :total=>0.0, :max=>0.0, :min=>0.0, :avg=>0}}}
+2017-11-08 08:20:04,154 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:20:03 MSK 2017 count: 60 max: 1001ms min: 498ms avg: 991ms
+2017-11-08 08:21:04,164 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:21:03 MSK 2017 count: 60 max: 1001ms min: 509ms avg: 992ms
+2017-11-08 08:22:04,174 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:22:03 MSK 2017 count: 60 max: 1001ms min: 515ms avg: 992ms
+2017-11-08 08:23:04,183 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:23:03 MSK 2017 count: 60 max: 1005ms min: 525ms avg: 992ms
+2017-11-08 08:24:04,194 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:24:03 MSK 2017 count: 60 max: 1001ms min: 538ms avg: 992ms
+2017-11-08 08:24:12,365 [WARN] -- SPP4222. resultSet == null
+2017-11-08 08:25:04,206 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:25:03 MSK 2017 count: 60 max: 1001ms min: 542ms avg: 992ms
+2017-11-08 08:26:04,216 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:26:03 MSK 2017 count: 60 max: 1001ms min: 546ms avg: 992ms
+2017-11-08 08:27:04,227 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:27:03 MSK 2017 count: 60 max: 1001ms min: 554ms avg: 992ms
+2017-11-08 08:28:04,237 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:28:03 MSK 2017 count: 60 max: 1001ms min: 560ms avg: 992ms
+2017-11-08 08:29:04,247 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:29:03 MSK 2017 count: 60 max: 1001ms min: 567ms avg: 993ms
+2017-11-08 08:29:17,189 [WARN] -- SPP4222. resultSet == null
+2017-11-08 08:30:04,257 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:30:03 MSK 2017 count: 60 max: 1001ms min: 576ms avg: 993ms
+2017-11-08 08:31:04,268 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:31:03 MSK 2017 count: 60 max: 1001ms min: 582ms avg: 993ms
+2017-11-08 08:32:04,280 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:32:03 MSK 2017 count: 60 max: 1001ms min: 587ms avg: 993ms
+2017-11-08 08:33:04,290 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:33:03 MSK 2017 count: 60 max: 1001ms min: 596ms avg: 993ms
+2017-11-08 08:34:04,300 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:34:03 MSK 2017 count: 60 max: 1001ms min: 601ms avg: 993ms
+2017-11-08 08:34:21,323 [WARN] -- SPP4222. resultSet == null
+2017-11-08 08:35:04,311 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:35:03 MSK 2017 count: 60 max: 1001ms min: 607ms avg: 993ms
+2017-11-08 08:36:04,322 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:36:03 MSK 2017 count: 60 max: 1001ms min: 613ms avg: 993ms
+2017-11-08 08:37:04,333 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:37:03 MSK 2017 count: 60 max: 1003ms min: 621ms avg: 993ms
+2017-11-08 08:38:04,344 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:38:03 MSK 2017 count: 60 max: 1001ms min: 628ms avg: 994ms
+2017-11-08 08:39:04,354 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:39:03 MSK 2017 count: 60 max: 1001ms min: 635ms avg: 994ms
+2017-11-08 08:39:24,991 [WARN] -- SPP4222. resultSet == null
+2017-11-08 08:40:04,362 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:40:04 MSK 2017 count: 60 max: 1002ms min: 642ms avg: 994ms
+2017-11-08 08:41:04,370 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:41:04 MSK 2017 count: 60 max: 1001ms min: 652ms avg: 994ms
+2017-11-08 08:42:04,378 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:42:04 MSK 2017 count: 60 max: 1001ms min: 662ms avg: 994ms
+2017-11-08 08:43:04,387 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:43:04 MSK 2017 count: 60 max: 1001ms min: 672ms avg: 994ms
+2017-11-08 08:44:04,396 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:44:04 MSK 2017 count: 60 max: 1001ms min: 679ms avg: 994ms
+2017-11-08 08:44:28,398 [WARN] -- SPP4222. resultSet == null
+2017-11-08 08:45:04,407 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:45:04 MSK 2017 count: 60 max: 1001ms min: 687ms avg: 995ms
+2017-11-08 08:46:04,417 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:46:04 MSK 2017 count: 60 max: 1001ms min: 692ms avg: 995ms
+2017-11-08 08:47:04,430 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:47:04 MSK 2017 count: 60 max: 1001ms min: 699ms avg: 995ms
+2017-11-08 08:48:04,438 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:48:04 MSK 2017 count: 60 max: 1001ms min: 702ms avg: 995ms
+2017-11-08 08:49:04,447 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:49:04 MSK 2017 count: 60 max: 1001ms min: 712ms avg: 995ms
+2017-11-08 08:49:31,937 [WARN] -- SPP4222. resultSet == null
+2017-11-08 08:50:04,456 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:50:04 MSK 2017 count: 60 max: 1001ms min: 719ms avg: 995ms
+2017-11-08 08:51:04,464 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:51:04 MSK 2017 count: 60 max: 1003ms min: 731ms avg: 995ms
+2017-11-08 08:52:04,472 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:52:04 MSK 2017 count: 60 max: 1001ms min: 740ms avg: 995ms
+2017-11-08 08:53:04,480 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:53:04 MSK 2017 count: 60 max: 1001ms min: 750ms avg: 996ms
+2017-11-08 08:54:04,490 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:54:04 MSK 2017 count: 60 max: 1001ms min: 759ms avg: 996ms
+2017-11-08 08:54:35,616 [WARN] -- SPP4222. resultSet == null
+2017-11-08 08:55:04,499 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:55:04 MSK 2017 count: 60 max: 1001ms min: 766ms avg: 996ms
+2017-11-08 08:56:04,508 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:56:04 MSK 2017 count: 60 max: 1002ms min: 775ms avg: 996ms
+2017-11-08 08:57:04,521 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:57:04 MSK 2017 count: 60 max: 1002ms min: 785ms avg: 996ms
+2017-11-08 08:58:04,529 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:58:04 MSK 2017 count: 60 max: 1001ms min: 793ms avg: 996ms
+2017-11-08 08:59:04,539 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 08:59:04 MSK 2017 count: 60 max: 1002ms min: 805ms avg: 997ms
+2017-11-08 08:59:39,037 [WARN] -- SPP4222. resultSet == null
+2017-11-08 09:00:04,550 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:00:04 MSK 2017 count: 60 max: 1003ms min: 819ms avg: 997ms
+2017-11-08 09:01:04,562 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:01:04 MSK 2017 count: 60 max: 1001ms min: 832ms avg: 997ms
+2017-11-08 09:02:04,574 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:02:04 MSK 2017 count: 60 max: 1001ms min: 839ms avg: 997ms
+2017-11-08 09:03:04,584 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:03:04 MSK 2017 count: 60 max: 1002ms min: 848ms avg: 997ms
+2017-11-08 09:04:04,595 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:04:04 MSK 2017 count: 60 max: 1002ms min: 859ms avg: 998ms
+2017-11-08 09:04:42,647 [WARN] -- SPP4222. resultSet == null
+2017-11-08 09:05:04,606 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:05:04 MSK 2017 count: 60 max: 1001ms min: 871ms avg: 998ms
+2017-11-08 09:06:04,615 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:06:04 MSK 2017 count: 60 max: 1002ms min: 882ms avg: 998ms
+2017-11-08 09:07:04,625 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:07:04 MSK 2017 count: 60 max: 1002ms min: 890ms avg: 998ms
+2017-11-08 09:08:04,634 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:08:04 MSK 2017 count: 60 max: 1001ms min: 898ms avg: 998ms
+2017-11-08 09:09:04,645 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:09:04 MSK 2017 count: 60 max: 1001ms min: 910ms avg: 998ms
+2017-11-08 09:09:46,479 [WARN] -- SPP4222. resultSet == null
+2017-11-08 09:10:04,653 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:10:04 MSK 2017 count: 60 max: 1001ms min: 919ms avg: 998ms
+2017-11-08 09:11:04,662 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:11:04 MSK 2017 count: 60 max: 1001ms min: 928ms avg: 999ms
+2017-11-08 09:12:04,672 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:12:04 MSK 2017 count: 60 max: 1002ms min: 936ms avg: 999ms
+2017-11-08 09:13:04,680 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:13:04 MSK 2017 count: 60 max: 1002ms min: 946ms avg: 999ms
+2017-11-08 09:14:04,690 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:14:04 MSK 2017 count: 60 max: 1002ms min: 959ms avg: 999ms
+2017-11-08 09:14:49,705 [WARN] -- SPP4222. resultSet == null
+2017-11-08 09:14:49,988 [INFO] -- -----> Ntf perf: {:period=>"88370 sec", :bytes=>"0.1 b/sec", :max_bytes=>"16.65 b/sec", :min_bytes=>"0.08 b/sec", :avg_bytes=>"0.19 b/sec", :ntf=>"0 ntf/sec", :max_ntf=>"0.05 ntf/sec", :min_ntf=>"0 ntf/sec", :avg_ntf=>"0 ntf/sec"}
+2017-11-08 09:14:49,989 [INFO] -- -----> Queue stats: {:in_q=>0, :ntf_proxy_q=>0, :zk_q=>0, :ntf_in_q=>0, :ntf_out_q=>0, :clients_n=>1, :sender_out=>0, :sender_in=>0, :sender_b=>6057, :cluster_b=>0, :time_b=>0, :plugin_q=>0, :space_q=>0}
+2017-11-08 09:14:49,989 [INFO] -- -----> Ntf size stats: 
+10.247.2.236:49057:
+  class:SettingsNotifier:
+    {:count=>1, :total=>322, :max=>322, :min=>322, :avg=>322.0}
+-------------------------
+
+2017-11-08 09:14:49,989 [DEBUG] -- Изменена настройка seq_79_uobj = '400793044000'
+2017-11-08 09:14:49,989 [INFO] -- ----> Ntf handle time stat {"10.247.2.236:49057"=>{"SettingsNotifier"=>{:count=>1, :total=>0.0, :max=>0.0, :min=>0.0, :avg=>0}}}
+2017-11-08 09:15:04,697 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:15:04 MSK 2017 count: 60 max: 1001ms min: 968ms avg: 999ms
+2017-11-08 09:16:04,703 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:16:04 MSK 2017 count: 60 max: 1001ms min: 980ms avg: 999ms
+2017-11-08 09:17:04,712 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:17:03 MSK 2017 count: 59 max: 1001ms min: 992ms avg: 1000ms
+2017-11-08 09:18:04,721 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:18:03 MSK 2017 count: 60 max: 1001ms min: 0ms avg: 983ms
+2017-11-08 09:19:04,731 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:19:03 MSK 2017 count: 60 max: 1001ms min: 9ms avg: 983ms
+2017-11-08 09:19:53,008 [WARN] -- SPP4222. resultSet == null
+2017-11-08 09:20:04,740 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:20:03 MSK 2017 count: 60 max: 1001ms min: 17ms avg: 983ms
+2017-11-08 09:21:04,748 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:21:03 MSK 2017 count: 60 max: 1001ms min: 24ms avg: 984ms
+2017-11-08 09:22:04,759 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:22:03 MSK 2017 count: 60 max: 1002ms min: 34ms avg: 984ms
+2017-11-08 09:23:04,767 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:23:03 MSK 2017 count: 60 max: 1001ms min: 43ms avg: 984ms
+2017-11-08 09:24:04,778 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:24:03 MSK 2017 count: 60 max: 1002ms min: 55ms avg: 984ms
+2017-11-08 09:24:56,439 [WARN] -- SPP4222. resultSet == null
+2017-11-08 09:25:04,785 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:25:03 MSK 2017 count: 60 max: 1001ms min: 63ms avg: 984ms
+2017-11-08 09:26:04,795 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:26:03 MSK 2017 count: 60 max: 1002ms min: 74ms avg: 984ms
+2017-11-08 09:27:04,805 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:27:03 MSK 2017 count: 60 max: 1001ms min: 86ms avg: 985ms
+2017-11-08 09:28:04,812 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:28:03 MSK 2017 count: 60 max: 1001ms min: 95ms avg: 985ms
+2017-11-08 09:29:04,822 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:29:03 MSK 2017 count: 60 max: 1002ms min: 106ms avg: 985ms
+2017-11-08 09:29:59,685 [WARN] -- SPP4222. resultSet == null
+2017-11-08 09:30:04,832 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:30:03 MSK 2017 count: 60 max: 1001ms min: 115ms avg: 985ms
+2017-11-08 09:31:04,843 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:31:03 MSK 2017 count: 60 max: 1011ms min: 123ms avg: 985ms
+2017-11-08 09:32:04,853 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:32:04 MSK 2017 count: 60 max: 1001ms min: 140ms avg: 985ms
+2017-11-08 09:33:04,865 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:33:04 MSK 2017 count: 60 max: 1001ms min: 148ms avg: 986ms
+2017-11-08 09:34:04,873 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:34:04 MSK 2017 count: 60 max: 1017ms min: 154ms avg: 986ms
+2017-11-08 09:35:03,236 [WARN] -- SPP4222. resultSet == null
+2017-11-08 09:35:04,882 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:35:04 MSK 2017 count: 60 max: 1010ms min: 165ms avg: 986ms
+2017-11-08 09:36:04,892 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:36:04 MSK 2017 count: 60 max: 1001ms min: 175ms avg: 986ms
+2017-11-08 09:37:04,903 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:37:04 MSK 2017 count: 60 max: 1001ms min: 183ms avg: 986ms
+2017-11-08 09:38:04,911 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:38:04 MSK 2017 count: 60 max: 1001ms min: 196ms avg: 986ms
+2017-11-08 09:39:04,920 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:39:04 MSK 2017 count: 60 max: 1006ms min: 205ms avg: 987ms
+2017-11-08 09:40:04,938 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:40:04 MSK 2017 count: 60 max: 1001ms min: 218ms avg: 987ms
+2017-11-08 09:40:06,430 [WARN] -- SPP4222. resultSet == null
+2017-11-08 09:41:04,946 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:41:04 MSK 2017 count: 60 max: 1001ms min: 217ms avg: 987ms
+2017-11-08 09:42:04,954 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:42:04 MSK 2017 count: 60 max: 1001ms min: 227ms avg: 987ms
+2017-11-08 09:43:04,963 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:43:04 MSK 2017 count: 60 max: 1001ms min: 237ms avg: 987ms
+2017-11-08 09:44:04,973 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:44:04 MSK 2017 count: 60 max: 1001ms min: 246ms avg: 987ms
+2017-11-08 09:45:04,985 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:45:04 MSK 2017 count: 60 max: 1001ms min: 255ms avg: 987ms
+2017-11-08 09:45:10,448 [WARN] -- SPP4222. resultSet == null
+2017-11-08 09:46:04,996 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:46:04 MSK 2017 count: 60 max: 1001ms min: 263ms avg: 988ms
+2017-11-08 09:47:05,004 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:47:04 MSK 2017 count: 60 max: 1001ms min: 271ms avg: 988ms
+2017-11-08 09:48:05,014 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:48:04 MSK 2017 count: 60 max: 1002ms min: 280ms avg: 988ms
+2017-11-08 09:49:05,023 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:49:04 MSK 2017 count: 60 max: 1001ms min: 290ms avg: 988ms
+2017-11-08 09:50:05,036 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:50:04 MSK 2017 count: 60 max: 1002ms min: 302ms avg: 988ms
+2017-11-08 09:50:13,891 [WARN] -- SPP4222. resultSet == null
+2017-11-08 09:51:05,048 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:51:04 MSK 2017 count: 60 max: 1001ms min: 307ms avg: 988ms
+2017-11-08 09:52:05,059 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:52:04 MSK 2017 count: 60 max: 1001ms min: 314ms avg: 988ms
+2017-11-08 09:53:05,070 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:53:04 MSK 2017 count: 60 max: 1001ms min: 321ms avg: 988ms
+2017-11-08 09:54:05,080 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:54:04 MSK 2017 count: 60 max: 1006ms min: 329ms avg: 989ms
+2017-11-08 09:55:05,088 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:55:04 MSK 2017 count: 60 max: 1001ms min: 335ms avg: 989ms
+2017-11-08 09:55:17,145 [WARN] -- SPP4222. resultSet == null
+2017-11-08 09:56:05,096 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:56:04 MSK 2017 count: 60 max: 1001ms min: 343ms avg: 989ms
+2017-11-08 09:57:05,104 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:57:04 MSK 2017 count: 60 max: 1001ms min: 353ms avg: 989ms
+2017-11-08 09:58:05,113 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:58:04 MSK 2017 count: 60 max: 1001ms min: 363ms avg: 989ms
+2017-11-08 09:59:05,122 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 09:59:04 MSK 2017 count: 60 max: 1001ms min: 372ms avg: 989ms
+2017-11-08 10:00:05,136 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:00:04 MSK 2017 count: 60 max: 1001ms min: 382ms avg: 990ms
+2017-11-08 10:00:21,181 [WARN] -- SPP4222. resultSet == null
+2017-11-08 10:01:05,145 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:01:04 MSK 2017 count: 60 max: 1001ms min: 387ms avg: 990ms
+2017-11-08 10:02:05,155 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:02:04 MSK 2017 count: 60 max: 1001ms min: 394ms avg: 990ms
+2017-11-08 10:03:05,166 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:03:04 MSK 2017 count: 60 max: 1001ms min: 400ms avg: 990ms
+2017-11-08 10:04:05,178 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:04:04 MSK 2017 count: 60 max: 1002ms min: 405ms avg: 990ms
+2017-11-08 10:05:05,189 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:05:04 MSK 2017 count: 60 max: 1001ms min: 412ms avg: 990ms
+2017-11-08 10:05:26,684 [WARN] -- SPP4222. resultSet == null
+2017-11-08 10:06:05,199 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:06:04 MSK 2017 count: 60 max: 1001ms min: 419ms avg: 990ms
+2017-11-08 10:07:05,208 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:07:04 MSK 2017 count: 60 max: 1001ms min: 427ms avg: 990ms
+2017-11-08 10:08:05,218 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:08:04 MSK 2017 count: 60 max: 1001ms min: 435ms avg: 990ms
+2017-11-08 10:09:05,229 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:09:04 MSK 2017 count: 60 max: 1001ms min: 443ms avg: 991ms
+2017-11-08 10:10:05,241 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:10:04 MSK 2017 count: 60 max: 1001ms min: 451ms avg: 991ms
+2017-11-08 10:10:30,568 [WARN] -- SPP4222. resultSet == null
+2017-11-08 10:10:30,879 [INFO] -- -----> Ntf perf: {:period=>"91710 sec", :bytes=>"0.1 b/sec", :max_bytes=>"16.65 b/sec", :min_bytes=>"0.08 b/sec", :avg_bytes=>"0.19 b/sec", :ntf=>"0 ntf/sec", :max_ntf=>"0.05 ntf/sec", :min_ntf=>"0 ntf/sec", :avg_ntf=>"0 ntf/sec"}
+2017-11-08 10:10:30,879 [INFO] -- -----> Queue stats: {:in_q=>0, :ntf_proxy_q=>0, :zk_q=>0, :ntf_in_q=>0, :ntf_out_q=>0, :clients_n=>1, :sender_out=>0, :sender_in=>0, :sender_b=>6057, :cluster_b=>0, :time_b=>0, :plugin_q=>0, :space_q=>0}
+2017-11-08 10:10:30,879 [INFO] -- -----> Ntf size stats: 
+10.247.2.236:49057:
+  class:SettingsNotifier:
+    {:count=>1, :total=>322, :max=>322, :min=>322, :avg=>322.0}
+-------------------------
+
+2017-11-08 10:10:30,880 [DEBUG] -- Изменена настройка seq_79_uobj = '400793048000'
+2017-11-08 10:10:30,880 [INFO] -- ----> Ntf handle time stat {"10.247.2.236:49057"=>{"SettingsNotifier"=>{:count=>1, :total=>0.0, :max=>0.0, :min=>0.0, :avg=>0}}}
+2017-11-08 10:11:05,252 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:11:04 MSK 2017 count: 60 max: 1006ms min: 458ms avg: 991ms
+2017-11-08 10:12:05,263 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:12:04 MSK 2017 count: 60 max: 1001ms min: 465ms avg: 991ms
+2017-11-08 10:13:05,275 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:13:04 MSK 2017 count: 60 max: 1002ms min: 474ms avg: 991ms
+2017-11-08 10:14:05,286 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:14:04 MSK 2017 count: 60 max: 1001ms min: 487ms avg: 991ms
+2017-11-08 10:15:05,297 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:15:04 MSK 2017 count: 60 max: 1002ms min: 501ms avg: 992ms
+2017-11-08 10:15:35,750 [WARN] -- SPP4222. resultSet == null
+2017-11-08 10:16:05,309 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:16:04 MSK 2017 count: 60 max: 1003ms min: 515ms avg: 992ms
+2017-11-08 10:17:05,319 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:17:04 MSK 2017 count: 60 max: 1001ms min: 527ms avg: 992ms
+2017-11-08 10:18:05,330 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:18:04 MSK 2017 count: 60 max: 1002ms min: 537ms avg: 992ms
+2017-11-08 10:19:05,339 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:19:04 MSK 2017 count: 60 max: 1001ms min: 548ms avg: 992ms
+2017-11-08 10:20:05,350 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:20:04 MSK 2017 count: 60 max: 1001ms min: 558ms avg: 992ms
+2017-11-08 10:20:39,544 [WARN] -- SPP4222. resultSet == null
+2017-11-08 10:21:05,358 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:21:04 MSK 2017 count: 60 max: 1001ms min: 568ms avg: 993ms
+2017-11-08 10:22:05,367 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:22:04 MSK 2017 count: 60 max: 1001ms min: 578ms avg: 993ms
+2017-11-08 10:23:05,378 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:23:04 MSK 2017 count: 60 max: 1001ms min: 587ms avg: 993ms
+2017-11-08 10:24:05,389 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:24:04 MSK 2017 count: 60 max: 1001ms min: 592ms avg: 993ms
+2017-11-08 10:25:05,401 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:25:05 MSK 2017 count: 60 max: 1001ms min: 597ms avg: 993ms
+2017-11-08 10:25:44,805 [WARN] -- SPP4222. resultSet == null
+2017-11-08 10:26:05,413 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:26:05 MSK 2017 count: 60 max: 1001ms min: 600ms avg: 993ms
+2017-11-08 10:27:05,426 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:27:05 MSK 2017 count: 60 max: 1001ms min: 606ms avg: 993ms
+2017-11-08 10:28:05,437 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:28:05 MSK 2017 count: 60 max: 1001ms min: 610ms avg: 993ms
+2017-11-08 10:29:05,447 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:29:05 MSK 2017 count: 60 max: 1001ms min: 618ms avg: 993ms
+2017-11-08 10:30:05,459 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:30:05 MSK 2017 count: 60 max: 1001ms min: 628ms avg: 994ms
+2017-11-08 10:30:50,200 [WARN] -- SPP4222. resultSet == null
+2017-11-08 10:31:05,470 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:31:05 MSK 2017 count: 60 max: 1001ms min: 637ms avg: 994ms
+2017-11-08 10:32:05,481 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:32:05 MSK 2017 count: 60 max: 1001ms min: 642ms avg: 994ms
+2017-11-08 10:33:05,493 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:33:05 MSK 2017 count: 60 max: 1007ms min: 651ms avg: 994ms
+2017-11-08 10:34:05,505 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:34:05 MSK 2017 count: 60 max: 1001ms min: 664ms avg: 994ms
+2017-11-08 10:35:05,516 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:35:05 MSK 2017 count: 60 max: 1001ms min: 671ms avg: 994ms
+2017-11-08 10:35:55,258 [WARN] -- SPP4222. resultSet == null
+2017-11-08 10:36:05,527 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:36:05 MSK 2017 count: 60 max: 1002ms min: 676ms avg: 994ms
+2017-11-08 10:37:05,538 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:37:05 MSK 2017 count: 60 max: 1001ms min: 683ms avg: 994ms
+2017-11-08 10:38:05,549 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:38:05 MSK 2017 count: 60 max: 1002ms min: 686ms avg: 995ms
+2017-11-08 10:39:05,560 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:39:05 MSK 2017 count: 60 max: 1001ms min: 691ms avg: 995ms
+2017-11-08 10:40:05,570 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:40:05 MSK 2017 count: 60 max: 1001ms min: 698ms avg: 995ms
+2017-11-08 10:40:58,135 [WARN] -- SPP4222. resultSet == null
+2017-11-08 10:41:05,580 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:41:05 MSK 2017 count: 60 max: 1001ms min: 707ms avg: 995ms
+2017-11-08 10:42:05,592 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:42:05 MSK 2017 count: 60 max: 1001ms min: 714ms avg: 995ms
+2017-11-08 10:43:05,603 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:43:05 MSK 2017 count: 60 max: 1001ms min: 718ms avg: 995ms
+2017-11-08 10:44:05,614 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:44:05 MSK 2017 count: 60 max: 1001ms min: 726ms avg: 995ms
+2017-11-08 10:45:05,624 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:45:05 MSK 2017 count: 60 max: 1001ms min: 734ms avg: 995ms
+2017-11-08 10:46:03,213 [WARN] -- SPP4222. resultSet == null
+2017-11-08 10:46:05,633 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:46:05 MSK 2017 count: 60 max: 1001ms min: 742ms avg: 996ms
+2017-11-08 10:47:05,641 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:47:05 MSK 2017 count: 60 max: 1001ms min: 751ms avg: 996ms
+2017-11-08 10:48:05,650 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:48:05 MSK 2017 count: 60 max: 1001ms min: 761ms avg: 996ms
+2017-11-08 10:49:05,658 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:49:05 MSK 2017 count: 60 max: 1001ms min: 770ms avg: 996ms
+2017-11-08 10:50:05,668 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:50:05 MSK 2017 count: 60 max: 1001ms min: 782ms avg: 996ms
+2017-11-08 10:51:05,676 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:51:05 MSK 2017 count: 60 max: 1001ms min: 790ms avg: 996ms
+2017-11-08 10:51:08,709 [WARN] -- SPP4222. resultSet == null
+2017-11-08 10:52:05,684 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:52:05 MSK 2017 count: 60 max: 1001ms min: 799ms avg: 996ms
+2017-11-08 10:53:05,692 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:53:05 MSK 2017 count: 60 max: 1002ms min: 809ms avg: 997ms
+2017-11-08 10:54:05,700 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:54:05 MSK 2017 count: 60 max: 1004ms min: 822ms avg: 997ms
+2017-11-08 10:55:05,709 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:55:05 MSK 2017 count: 60 max: 1005ms min: 841ms avg: 998ms
+2017-11-08 10:56:05,718 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:56:05 MSK 2017 count: 60 max: 1001ms min: 876ms avg: 998ms
+2017-11-08 10:56:14,813 [WARN] -- SPP4222. resultSet == null
+2017-11-08 10:57:05,729 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:57:05 MSK 2017 count: 60 max: 1002ms min: 889ms avg: 998ms
+2017-11-08 10:58:05,738 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:58:05 MSK 2017 count: 60 max: 1002ms min: 901ms avg: 998ms
+2017-11-08 10:59:05,750 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 10:59:05 MSK 2017 count: 60 max: 1001ms min: 918ms avg: 998ms
+2017-11-08 11:00:05,760 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:00:05 MSK 2017 count: 60 max: 1001ms min: 926ms avg: 999ms
+2017-11-08 11:01:05,769 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:01:05 MSK 2017 count: 60 max: 1001ms min: 935ms avg: 999ms
+2017-11-08 11:01:19,965 [WARN] -- SPP4222. resultSet == null
+2017-11-08 11:02:05,778 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:02:05 MSK 2017 count: 60 max: 1001ms min: 945ms avg: 999ms
+2017-11-08 11:03:05,788 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:03:05 MSK 2017 count: 60 max: 1002ms min: 957ms avg: 999ms
+2017-11-08 11:04:05,797 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:04:05 MSK 2017 count: 60 max: 1001ms min: 967ms avg: 999ms
+2017-11-08 11:05:05,805 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:05:05 MSK 2017 count: 60 max: 1001ms min: 976ms avg: 999ms
+2017-11-08 11:06:05,816 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:06:05 MSK 2017 count: 60 max: 1002ms min: 987ms avg: 1000ms
+2017-11-08 11:06:23,203 [WARN] -- SPP4222. resultSet == null
+2017-11-08 11:07:05,826 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:07:04 MSK 2017 count: 59 max: 1001ms min: 996ms avg: 1000ms
+2017-11-08 11:08:05,836 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:08:04 MSK 2017 count: 60 max: 1003ms min: 5ms avg: 983ms
+2017-11-08 11:09:05,847 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:09:04 MSK 2017 count: 60 max: 1001ms min: 11ms avg: 983ms
+2017-11-08 11:10:05,864 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:10:04 MSK 2017 count: 60 max: 1001ms min: 15ms avg: 983ms
+2017-11-08 11:11:05,887 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:11:04 MSK 2017 count: 60 max: 1001ms min: 13ms avg: 983ms
+2017-11-08 11:11:27,074 [WARN] -- SPP4222. resultSet == null
+2017-11-08 11:12:05,899 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:12:04 MSK 2017 count: 60 max: 1001ms min: 6ms avg: 983ms
+2017-11-08 11:13:05,906 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:13:04 MSK 2017 count: 60 max: 1001ms min: 14ms avg: 983ms
+2017-11-08 11:14:05,916 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:14:04 MSK 2017 count: 60 max: 1002ms min: 26ms avg: 984ms
+2017-11-08 11:15:05,924 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:15:04 MSK 2017 count: 60 max: 1002ms min: 36ms avg: 984ms
+2017-11-08 11:16:05,934 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:16:04 MSK 2017 count: 60 max: 1001ms min: 47ms avg: 984ms
+2017-11-08 11:16:30,575 [WARN] -- SPP4222. resultSet == null
+2017-11-08 11:17:05,946 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:17:05 MSK 2017 count: 60 max: 1002ms min: 55ms avg: 984ms
+2017-11-08 11:18:05,958 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:18:05 MSK 2017 count: 60 max: 1001ms min: 63ms avg: 984ms
+2017-11-08 11:19:05,968 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:19:05 MSK 2017 count: 60 max: 1003ms min: 64ms avg: 984ms
+2017-11-08 11:20:05,977 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:20:05 MSK 2017 count: 60 max: 1002ms min: 70ms avg: 984ms
+2017-11-08 11:21:05,988 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:21:05 MSK 2017 count: 60 max: 1004ms min: 80ms avg: 984ms
+2017-11-08 11:21:33,801 [WARN] -- SPP4222. resultSet == null
+2017-11-08 11:21:34,018 [INFO] -- -----> Ntf perf: {:period=>"95974 sec", :bytes=>"0.08 b/sec", :max_bytes=>"16.65 b/sec", :min_bytes=>"0.08 b/sec", :avg_bytes=>"0.18 b/sec", :ntf=>"0 ntf/sec", :max_ntf=>"0.05 ntf/sec", :min_ntf=>"0 ntf/sec", :avg_ntf=>"0 ntf/sec"}
+2017-11-08 11:21:34,018 [INFO] -- -----> Queue stats: {:in_q=>0, :ntf_proxy_q=>0, :zk_q=>0, :ntf_in_q=>0, :ntf_out_q=>0, :clients_n=>1, :sender_out=>0, :sender_in=>0, :sender_b=>6057, :cluster_b=>0, :time_b=>0, :plugin_q=>0, :space_q=>0}
+2017-11-08 11:21:34,018 [INFO] -- -----> Ntf size stats: 
+10.247.2.236:49057:
+  class:SettingsNotifier:
+    {:count=>1, :total=>322, :max=>322, :min=>322, :avg=>322.0}
+-------------------------
+
+2017-11-08 11:21:34,019 [DEBUG] -- Изменена настройка seq_79_uobj = '400793052000'
+2017-11-08 11:21:34,019 [INFO] -- ----> Ntf handle time stat {"10.247.2.236:49057"=>{"SettingsNotifier"=>{:count=>1, :total=>0.0, :max=>0.0, :min=>0.0, :avg=>0}}}
+2017-11-08 11:22:05,997 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:22:05 MSK 2017 count: 60 max: 1001ms min: 89ms avg: 985ms
+2017-11-08 11:23:06,007 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:23:05 MSK 2017 count: 60 max: 1001ms min: 97ms avg: 985ms
+2017-11-08 11:24:06,017 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:24:05 MSK 2017 count: 60 max: 1002ms min: 105ms avg: 985ms
+2017-11-08 11:25:06,029 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:25:05 MSK 2017 count: 60 max: 1001ms min: 116ms avg: 985ms
+2017-11-08 11:26:06,040 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:26:05 MSK 2017 count: 60 max: 1002ms min: 121ms avg: 985ms
+2017-11-08 11:26:37,085 [WARN] -- SPP4222. resultSet == null
+2017-11-08 11:27:06,051 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:27:05 MSK 2017 count: 60 max: 1001ms min: 127ms avg: 985ms
+2017-11-08 11:28:06,061 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:28:05 MSK 2017 count: 60 max: 1001ms min: 131ms avg: 985ms
+2017-11-08 11:29:06,072 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:29:05 MSK 2017 count: 60 max: 1001ms min: 136ms avg: 985ms
+2017-11-08 11:30:06,082 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:30:05 MSK 2017 count: 60 max: 1001ms min: 142ms avg: 985ms
+2017-11-08 11:31:06,092 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:31:05 MSK 2017 count: 60 max: 1001ms min: 150ms avg: 986ms
+2017-11-08 11:31:40,122 [WARN] -- SPP4222. resultSet == null
+2017-11-08 11:32:06,104 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:32:05 MSK 2017 count: 60 max: 1001ms min: 156ms avg: 986ms
+2017-11-08 11:33:06,112 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:33:05 MSK 2017 count: 60 max: 1001ms min: 161ms avg: 986ms
+2017-11-08 11:34:06,122 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:34:05 MSK 2017 count: 60 max: 1001ms min: 167ms avg: 986ms
+2017-11-08 11:35:06,133 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:35:05 MSK 2017 count: 60 max: 1001ms min: 173ms avg: 986ms
+2017-11-08 11:36:06,144 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:36:05 MSK 2017 count: 60 max: 1001ms min: 183ms avg: 986ms
+2017-11-08 11:36:46,358 [WARN] -- SPP4222. resultSet == null
+2017-11-08 11:37:06,157 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:37:05 MSK 2017 count: 60 max: 1001ms min: 187ms avg: 986ms
+2017-11-08 11:38:06,166 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:38:05 MSK 2017 count: 60 max: 1001ms min: 191ms avg: 986ms
+2017-11-08 11:39:06,175 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:39:05 MSK 2017 count: 60 max: 1001ms min: 199ms avg: 986ms
+2017-11-08 11:40:06,185 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:40:05 MSK 2017 count: 60 max: 1001ms min: 205ms avg: 987ms
+2017-11-08 11:41:06,193 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:41:05 MSK 2017 count: 60 max: 1001ms min: 212ms avg: 987ms
+2017-11-08 11:41:51,206 [WARN] -- SPP4222. resultSet == null
+2017-11-08 11:42:06,200 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:42:05 MSK 2017 count: 60 max: 1001ms min: 222ms avg: 987ms
+2017-11-08 11:43:06,210 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:43:05 MSK 2017 count: 60 max: 1001ms min: 231ms avg: 987ms
+2017-11-08 11:44:06,221 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:44:05 MSK 2017 count: 60 max: 1001ms min: 236ms avg: 987ms
+2017-11-08 11:45:06,231 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:45:05 MSK 2017 count: 60 max: 1005ms min: 241ms avg: 987ms
+2017-11-08 11:46:06,241 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:46:05 MSK 2017 count: 60 max: 1007ms min: 251ms avg: 987ms
+2017-11-08 11:46:56,670 [WARN] -- SPP4222. resultSet == null
+2017-11-08 11:47:06,250 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:47:05 MSK 2017 count: 60 max: 1001ms min: 258ms avg: 987ms
+2017-11-08 11:48:06,258 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:48:05 MSK 2017 count: 60 max: 1001ms min: 265ms avg: 988ms
+2017-11-08 11:49:06,266 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:49:05 MSK 2017 count: 60 max: 1001ms min: 274ms avg: 988ms
+2017-11-08 11:50:06,275 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:50:05 MSK 2017 count: 60 max: 1001ms min: 283ms avg: 988ms
+2017-11-08 11:51:06,285 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:51:05 MSK 2017 count: 60 max: 1001ms min: 292ms avg: 988ms
+2017-11-08 11:52:01,909 [WARN] -- SPP4222. resultSet == null
+2017-11-08 11:52:06,296 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:52:05 MSK 2017 count: 60 max: 1001ms min: 303ms avg: 988ms
+2017-11-08 11:53:06,306 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:53:05 MSK 2017 count: 60 max: 1001ms min: 310ms avg: 988ms
+2017-11-08 11:54:06,315 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:54:05 MSK 2017 count: 60 max: 1001ms min: 316ms avg: 988ms
+2017-11-08 11:55:06,324 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:55:05 MSK 2017 count: 60 max: 1001ms min: 325ms avg: 989ms
+2017-11-08 11:56:06,333 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:56:05 MSK 2017 count: 60 max: 1001ms min: 334ms avg: 989ms
+2017-11-08 11:57:06,344 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:57:05 MSK 2017 count: 60 max: 1001ms min: 342ms avg: 989ms
+2017-11-08 11:57:07,372 [WARN] -- SPP4222. resultSet == null
+2017-11-08 11:58:06,355 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:58:05 MSK 2017 count: 60 max: 1001ms min: 347ms avg: 989ms
+2017-11-08 11:59:06,365 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 11:59:05 MSK 2017 count: 60 max: 1001ms min: 353ms avg: 989ms
+2017-11-08 12:00:06,376 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:00:05 MSK 2017 count: 60 max: 1001ms min: 362ms avg: 989ms
+2017-11-08 12:01:06,386 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:01:05 MSK 2017 count: 60 max: 1001ms min: 371ms avg: 989ms
+2017-11-08 12:02:06,395 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:02:05 MSK 2017 count: 60 max: 1001ms min: 379ms avg: 989ms
+2017-11-08 12:02:10,888 [WARN] -- SPP4222. resultSet == null
+2017-11-08 12:03:06,405 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:03:05 MSK 2017 count: 60 max: 1001ms min: 387ms avg: 990ms
+2017-11-08 12:04:06,413 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:04:05 MSK 2017 count: 60 max: 1001ms min: 395ms avg: 990ms
+2017-11-08 12:05:06,423 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:05:05 MSK 2017 count: 60 max: 1001ms min: 406ms avg: 990ms
+2017-11-08 12:06:06,431 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:06:05 MSK 2017 count: 60 max: 1001ms min: 415ms avg: 990ms
+2017-11-08 12:07:06,439 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:07:05 MSK 2017 count: 60 max: 1001ms min: 423ms avg: 990ms
+2017-11-08 12:07:15,577 [WARN] -- SPP4222. resultSet == null
+2017-11-08 12:08:06,447 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:08:05 MSK 2017 count: 60 max: 1001ms min: 432ms avg: 990ms
+2017-11-08 12:09:06,455 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:09:05 MSK 2017 count: 60 max: 1001ms min: 443ms avg: 991ms
+2017-11-08 12:10:06,463 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:10:05 MSK 2017 count: 60 max: 1001ms min: 454ms avg: 991ms
+2017-11-08 12:11:06,475 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:11:05 MSK 2017 count: 60 max: 1002ms min: 463ms avg: 991ms
+2017-11-08 12:12:06,484 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:12:05 MSK 2017 count: 60 max: 1002ms min: 472ms avg: 991ms
+2017-11-08 12:12:18,882 [WARN] -- SPP4222. resultSet == null
+2017-11-08 12:13:06,493 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:13:06 MSK 2017 count: 60 max: 1003ms min: 495ms avg: 992ms
+2017-11-08 12:14:06,502 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:14:06 MSK 2017 count: 60 max: 1002ms min: 513ms avg: 992ms
+2017-11-08 12:15:06,512 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:15:06 MSK 2017 count: 60 max: 1002ms min: 531ms avg: 992ms
+2017-11-08 12:16:06,521 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:16:06 MSK 2017 count: 60 max: 1001ms min: 550ms avg: 992ms
+2017-11-08 12:17:06,534 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:17:06 MSK 2017 count: 60 max: 1002ms min: 560ms avg: 993ms
+2017-11-08 12:17:22,183 [WARN] -- SPP4222. resultSet == null
+2017-11-08 12:18:06,545 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:18:06 MSK 2017 count: 60 max: 1002ms min: 570ms avg: 993ms
+2017-11-08 12:19:06,555 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:19:06 MSK 2017 count: 60 max: 1003ms min: 581ms avg: 993ms
+2017-11-08 12:20:06,566 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:20:06 MSK 2017 count: 60 max: 1001ms min: 598ms avg: 993ms
+2017-11-08 12:21:06,576 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:21:06 MSK 2017 count: 60 max: 1001ms min: 606ms avg: 993ms
+2017-11-08 12:22:06,586 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:22:06 MSK 2017 count: 60 max: 1001ms min: 616ms avg: 993ms
+2017-11-08 12:22:25,401 [WARN] -- SPP4222. resultSet == null
+2017-11-08 12:23:06,595 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:23:06 MSK 2017 count: 60 max: 1002ms min: 625ms avg: 994ms
+2017-11-08 12:24:06,603 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:24:06 MSK 2017 count: 60 max: 1001ms min: 635ms avg: 994ms
+2017-11-08 12:25:06,613 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:25:06 MSK 2017 count: 60 max: 1002ms min: 645ms avg: 994ms
+2017-11-08 12:26:06,625 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:26:06 MSK 2017 count: 60 max: 1003ms min: 653ms avg: 994ms
+2017-11-08 12:27:06,636 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:27:06 MSK 2017 count: 60 max: 1001ms min: 669ms avg: 994ms
+2017-11-08 12:27:30,461 [WARN] -- SPP4222. resultSet == null
+2017-11-08 12:27:30,689 [INFO] -- -----> Ntf perf: {:period=>"99930 sec", :bytes=>"0.08 b/sec", :max_bytes=>"16.65 b/sec", :min_bytes=>"0.08 b/sec", :avg_bytes=>"0.18 b/sec", :ntf=>"0 ntf/sec", :max_ntf=>"0.05 ntf/sec", :min_ntf=>"0 ntf/sec", :avg_ntf=>"0 ntf/sec"}
+2017-11-08 12:27:30,690 [INFO] -- -----> Queue stats: {:in_q=>0, :ntf_proxy_q=>0, :zk_q=>0, :ntf_in_q=>0, :ntf_out_q=>0, :clients_n=>1, :sender_out=>0, :sender_in=>0, :sender_b=>6057, :cluster_b=>0, :time_b=>0, :plugin_q=>0, :space_q=>0}
+2017-11-08 12:27:30,690 [INFO] -- -----> Ntf size stats: 
+10.247.2.236:49057:
+  class:SettingsNotifier:
+    {:count=>1, :total=>322, :max=>322, :min=>322, :avg=>322.0}
+-------------------------
+
+2017-11-08 12:27:30,690 [DEBUG] -- Изменена настройка seq_79_uobj = '400793056000'
+2017-11-08 12:27:30,690 [INFO] -- ----> Ntf handle time stat {"10.247.2.236:49057"=>{"SettingsNotifier"=>{:count=>1, :total=>0.0, :max=>0.0, :min=>0.0, :avg=>0}}}
+2017-11-08 12:28:06,647 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:28:06 MSK 2017 count: 60 max: 1002ms min: 679ms avg: 995ms
+2017-11-08 12:29:06,659 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:29:06 MSK 2017 count: 60 max: 1002ms min: 690ms avg: 995ms
+2017-11-08 12:30:06,670 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:30:06 MSK 2017 count: 60 max: 1001ms min: 700ms avg: 995ms
+2017-11-08 12:31:06,681 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:31:06 MSK 2017 count: 60 max: 1002ms min: 708ms avg: 995ms
+2017-11-08 12:32:06,692 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:32:06 MSK 2017 count: 60 max: 1001ms min: 716ms avg: 995ms
+2017-11-08 12:32:33,780 [WARN] -- SPP4222. resultSet == null
+2017-11-08 12:33:06,704 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:33:06 MSK 2017 count: 60 max: 1002ms min: 725ms avg: 995ms
+2017-11-08 12:34:06,715 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:34:06 MSK 2017 count: 60 max: 1001ms min: 733ms avg: 995ms
+2017-11-08 12:35:06,727 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:35:06 MSK 2017 count: 60 max: 1001ms min: 740ms avg: 995ms
+2017-11-08 12:36:06,737 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:36:06 MSK 2017 count: 60 max: 1002ms min: 746ms avg: 996ms
+2017-11-08 12:37:06,746 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:37:06 MSK 2017 count: 60 max: 1004ms min: 753ms avg: 996ms
+2017-11-08 12:37:37,057 [WARN] -- SPP4222. resultSet == null
+2017-11-08 12:38:06,757 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:38:06 MSK 2017 count: 60 max: 1008ms min: 765ms avg: 996ms
+2017-11-08 12:39:06,768 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:39:06 MSK 2017 count: 60 max: 1001ms min: 776ms avg: 996ms
+2017-11-08 12:40:06,778 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:40:06 MSK 2017 count: 60 max: 1001ms min: 784ms avg: 996ms
+2017-11-08 12:41:06,785 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:41:06 MSK 2017 count: 60 max: 1001ms min: 791ms avg: 996ms
+2017-11-08 12:42:06,794 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:42:06 MSK 2017 count: 60 max: 1001ms min: 803ms avg: 997ms
+2017-11-08 12:42:40,464 [WARN] -- SPP4222. resultSet == null
+2017-11-08 12:43:06,803 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:43:06 MSK 2017 count: 60 max: 1001ms min: 814ms avg: 997ms
+2017-11-08 12:44:06,813 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:44:06 MSK 2017 count: 60 max: 1001ms min: 822ms avg: 997ms
+2017-11-08 12:45:06,825 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:45:06 MSK 2017 count: 60 max: 1001ms min: 832ms avg: 997ms
+2017-11-08 12:46:06,835 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:46:06 MSK 2017 count: 60 max: 1002ms min: 837ms avg: 997ms
+2017-11-08 12:47:06,845 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:47:06 MSK 2017 count: 60 max: 1002ms min: 847ms avg: 997ms
+2017-11-08 12:47:43,939 [WARN] -- SPP4222. resultSet == null
+2017-11-08 12:48:06,856 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:48:06 MSK 2017 count: 60 max: 1001ms min: 855ms avg: 997ms
+2017-11-08 12:49:06,865 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:49:06 MSK 2017 count: 60 max: 1001ms min: 862ms avg: 997ms
+2017-11-08 12:50:06,875 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:50:06 MSK 2017 count: 60 max: 1001ms min: 871ms avg: 998ms
+2017-11-08 12:51:06,885 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:51:06 MSK 2017 count: 60 max: 1001ms min: 877ms avg: 998ms
+2017-11-08 12:52:06,895 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:52:06 MSK 2017 count: 60 max: 1001ms min: 885ms avg: 998ms
+2017-11-08 12:52:47,073 [WARN] -- SPP4222. resultSet == null
+2017-11-08 12:53:06,904 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:53:06 MSK 2017 count: 60 max: 1004ms min: 892ms avg: 998ms
+2017-11-08 12:54:06,912 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:54:06 MSK 2017 count: 60 max: 1001ms min: 899ms avg: 998ms
+2017-11-08 12:55:06,920 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:55:06 MSK 2017 count: 60 max: 1001ms min: 908ms avg: 998ms
+2017-11-08 12:56:06,928 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:56:06 MSK 2017 count: 60 max: 1001ms min: 915ms avg: 998ms
+2017-11-08 12:57:06,935 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:57:06 MSK 2017 count: 60 max: 1001ms min: 925ms avg: 999ms
+2017-11-08 12:57:50,281 [WARN] -- SPP4222. resultSet == null
+2017-11-08 12:58:06,943 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:58:06 MSK 2017 count: 60 max: 1002ms min: 935ms avg: 999ms
+2017-11-08 12:59:06,952 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 12:59:06 MSK 2017 count: 60 max: 1002ms min: 944ms avg: 999ms
+2017-11-08 13:00:06,959 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:00:06 MSK 2017 count: 60 max: 1001ms min: 953ms avg: 999ms
+2017-11-08 13:01:06,968 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:01:06 MSK 2017 count: 60 max: 1004ms min: 962ms avg: 999ms
+2017-11-08 13:02:06,976 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:02:06 MSK 2017 count: 60 max: 1002ms min: 978ms avg: 999ms
+2017-11-08 13:02:53,467 [WARN] -- SPP4222. resultSet == null
+2017-11-08 13:03:06,986 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:03:05 MSK 2017 count: 59 max: 1002ms min: 989ms avg: 1000ms
+2017-11-08 13:04:06,997 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:04:06 MSK 2017 count: 60 max: 1004ms min: 1ms avg: 983ms
+2017-11-08 13:05:07,008 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:05:06 MSK 2017 count: 60 max: 1002ms min: 10ms avg: 983ms
+2017-11-08 13:06:07,017 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:06:06 MSK 2017 count: 60 max: 1002ms min: 19ms avg: 983ms
+2017-11-08 13:07:07,028 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:07:06 MSK 2017 count: 60 max: 1001ms min: 29ms avg: 984ms
+2017-11-08 13:07:58,809 [WARN] -- SPP4222. resultSet == null
+2017-11-08 13:08:07,039 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:08:06 MSK 2017 count: 60 max: 1002ms min: 36ms avg: 984ms
+2017-11-08 13:09:07,050 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:09:06 MSK 2017 count: 60 max: 1001ms min: 43ms avg: 984ms
+2017-11-08 13:10:07,061 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:10:06 MSK 2017 count: 60 max: 1001ms min: 50ms avg: 984ms
+2017-11-08 13:11:07,072 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:11:06 MSK 2017 count: 60 max: 1001ms min: 54ms avg: 984ms
+2017-11-08 13:12:07,082 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:12:06 MSK 2017 count: 60 max: 1001ms min: 59ms avg: 984ms
+2017-11-08 13:13:02,090 [WARN] -- SPP4222. resultSet == null
+2017-11-08 13:13:07,093 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:13:06 MSK 2017 count: 60 max: 1002ms min: 66ms avg: 984ms
+2017-11-08 13:14:07,103 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:14:06 MSK 2017 count: 60 max: 1001ms min: 73ms avg: 984ms
+2017-11-08 13:15:07,113 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:15:06 MSK 2017 count: 60 max: 1001ms min: 79ms avg: 984ms
+2017-11-08 13:16:07,122 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:16:06 MSK 2017 count: 60 max: 1001ms min: 89ms avg: 985ms
+2017-11-08 13:17:07,130 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:17:06 MSK 2017 count: 60 max: 1001ms min: 96ms avg: 985ms
+2017-11-08 13:18:05,289 [WARN] -- SPP4222. resultSet == null
+2017-11-08 13:18:07,144 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:18:06 MSK 2017 count: 60 max: 1002ms min: 103ms avg: 985ms
+2017-11-08 13:19:07,154 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:19:06 MSK 2017 count: 60 max: 1001ms min: 108ms avg: 985ms
+2017-11-08 13:20:07,164 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:20:06 MSK 2017 count: 60 max: 1002ms min: 115ms avg: 985ms
+2017-11-08 13:21:07,174 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:21:06 MSK 2017 count: 60 max: 1001ms min: 124ms avg: 985ms
+2017-11-08 13:22:07,184 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:22:06 MSK 2017 count: 60 max: 1002ms min: 131ms avg: 985ms
+2017-11-08 13:23:07,191 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:23:06 MSK 2017 count: 60 max: 1001ms min: 140ms avg: 985ms
+2017-11-08 13:23:09,841 [WARN] -- SPP4222. resultSet == null
+2017-11-08 13:24:07,198 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:24:06 MSK 2017 count: 60 max: 1001ms min: 148ms avg: 986ms
+2017-11-08 13:25:07,208 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:25:06 MSK 2017 count: 60 max: 1001ms min: 157ms avg: 986ms
+2017-11-08 13:26:07,215 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:26:06 MSK 2017 count: 60 max: 1001ms min: 166ms avg: 986ms
+2017-11-08 13:27:07,226 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:27:06 MSK 2017 count: 60 max: 1001ms min: 176ms avg: 986ms
+2017-11-08 13:28:07,234 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:28:06 MSK 2017 count: 60 max: 1109ms min: 184ms avg: 988ms
+2017-11-08 13:28:14,229 [WARN] -- SPP4222. resultSet == null
+2017-11-08 13:29:07,243 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:29:06 MSK 2017 count: 60 max: 1001ms min: 301ms avg: 988ms
+2017-11-08 13:30:07,253 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:30:06 MSK 2017 count: 60 max: 1001ms min: 311ms avg: 988ms
+2017-11-08 13:31:07,261 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:31:06 MSK 2017 count: 60 max: 1001ms min: 321ms avg: 988ms
+2017-11-08 13:32:07,270 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:32:06 MSK 2017 count: 60 max: 1001ms min: 330ms avg: 989ms
+2017-11-08 13:33:07,278 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:33:06 MSK 2017 count: 60 max: 1001ms min: 336ms avg: 989ms
+2017-11-08 13:33:17,654 [WARN] -- SPP4222. resultSet == null
+2017-11-08 13:34:07,287 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:34:06 MSK 2017 count: 60 max: 1001ms min: 345ms avg: 989ms
+2017-11-08 13:35:07,296 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:35:06 MSK 2017 count: 60 max: 1004ms min: 350ms avg: 989ms
+2017-11-08 13:36:07,307 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:36:06 MSK 2017 count: 60 max: 1001ms min: 359ms avg: 989ms
+2017-11-08 13:37:07,315 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:37:06 MSK 2017 count: 60 max: 1001ms min: 365ms avg: 989ms
+2017-11-08 13:38:07,323 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:38:06 MSK 2017 count: 60 max: 1001ms min: 375ms avg: 989ms
+2017-11-08 13:38:20,958 [WARN] -- SPP4222. resultSet == null
+2017-11-08 13:38:21,270 [INFO] -- -----> Ntf perf: {:period=>"104181 sec", :bytes=>"0.08 b/sec", :max_bytes=>"16.65 b/sec", :min_bytes=>"0.08 b/sec", :avg_bytes=>"0.17 b/sec", :ntf=>"0 ntf/sec", :max_ntf=>"0.05 ntf/sec", :min_ntf=>"0 ntf/sec", :avg_ntf=>"0 ntf/sec"}
+2017-11-08 13:38:21,270 [INFO] -- -----> Queue stats: {:in_q=>0, :ntf_proxy_q=>0, :zk_q=>0, :ntf_in_q=>0, :ntf_out_q=>0, :clients_n=>1, :sender_out=>0, :sender_in=>0, :sender_b=>6057, :cluster_b=>0, :time_b=>0, :plugin_q=>0, :space_q=>0}
+2017-11-08 13:38:21,271 [INFO] -- -----> Ntf size stats: 
+10.247.2.236:49057:
+  class:SettingsNotifier:
+    {:count=>1, :total=>322, :max=>322, :min=>322, :avg=>322.0}
+-------------------------
+
+2017-11-08 13:38:21,271 [DEBUG] -- Изменена настройка seq_79_uobj = '400793060000'
+2017-11-08 13:38:21,271 [INFO] -- ----> Ntf handle time stat {"10.247.2.236:49057"=>{"SettingsNotifier"=>{:count=>1, :total=>0.0, :max=>0.0, :min=>0.0, :avg=>0}}}
+2017-11-08 13:39:07,332 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:39:06 MSK 2017 count: 60 max: 1001ms min: 385ms avg: 990ms
+2017-11-08 13:40:07,341 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:40:06 MSK 2017 count: 60 max: 1001ms min: 395ms avg: 990ms
+2017-11-08 13:41:07,350 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:41:06 MSK 2017 count: 60 max: 1001ms min: 405ms avg: 990ms
+2017-11-08 13:42:07,360 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:42:06 MSK 2017 count: 60 max: 1001ms min: 414ms avg: 990ms
+2017-11-08 13:43:07,370 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:43:06 MSK 2017 count: 60 max: 1001ms min: 420ms avg: 990ms
+2017-11-08 13:43:25,185 [WARN] -- SPP4222. resultSet == null
+2017-11-08 13:44:07,380 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:44:06 MSK 2017 count: 60 max: 1001ms min: 426ms avg: 990ms
+2017-11-08 13:45:07,391 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:45:06 MSK 2017 count: 60 max: 1001ms min: 435ms avg: 990ms
+2017-11-08 13:46:07,402 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:46:06 MSK 2017 count: 60 max: 1001ms min: 441ms avg: 991ms
+2017-11-08 13:47:07,414 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:47:06 MSK 2017 count: 60 max: 1001ms min: 451ms avg: 991ms
+2017-11-08 13:48:07,425 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:48:06 MSK 2017 count: 60 max: 1065ms min: 457ms avg: 991ms
+2017-11-08 13:48:30,283 [WARN] -- SPP4222. resultSet == null
+2017-11-08 13:49:07,434 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:49:06 MSK 2017 count: 60 max: 1051ms min: 478ms avg: 992ms
+2017-11-08 13:50:07,444 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:50:07 MSK 2017 count: 60 max: 1004ms min: 555ms avg: 992ms
+2017-11-08 13:51:07,452 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:51:07 MSK 2017 count: 60 max: 1003ms min: 566ms avg: 993ms
+2017-11-08 13:52:07,460 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:52:07 MSK 2017 count: 60 max: 1002ms min: 585ms avg: 993ms
+2017-11-08 13:53:07,470 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:53:07 MSK 2017 count: 60 max: 1003ms min: 600ms avg: 993ms
+2017-11-08 13:53:34,463 [WARN] -- SPP4222. resultSet == null
+2017-11-08 13:54:07,479 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:54:07 MSK 2017 count: 60 max: 1001ms min: 616ms avg: 994ms
+2017-11-08 13:55:07,490 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:55:07 MSK 2017 count: 60 max: 1002ms min: 631ms avg: 994ms
+2017-11-08 13:56:07,501 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:56:07 MSK 2017 count: 60 max: 1002ms min: 647ms avg: 994ms
+2017-11-08 13:57:07,511 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:57:07 MSK 2017 count: 60 max: 1001ms min: 657ms avg: 994ms
+2017-11-08 13:58:07,520 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:58:07 MSK 2017 count: 60 max: 1002ms min: 669ms avg: 994ms
+2017-11-08 13:58:38,680 [WARN] -- SPP4222. resultSet == null
+2017-11-08 13:59:07,531 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 13:59:07 MSK 2017 count: 60 max: 1002ms min: 679ms avg: 994ms
+2017-11-08 14:00:07,543 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:00:07 MSK 2017 count: 60 max: 1001ms min: 689ms avg: 995ms
+2017-11-08 14:01:07,554 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:01:07 MSK 2017 count: 60 max: 1002ms min: 697ms avg: 995ms
+2017-11-08 14:02:07,565 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:02:07 MSK 2017 count: 60 max: 1002ms min: 706ms avg: 995ms
+2017-11-08 14:03:07,577 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:03:07 MSK 2017 count: 60 max: 1002ms min: 716ms avg: 995ms
+2017-11-08 14:03:43,792 [WARN] -- SPP4222. resultSet == null
+2017-11-08 14:04:07,587 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:04:07 MSK 2017 count: 60 max: 1002ms min: 722ms avg: 995ms
+2017-11-08 14:05:07,597 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:05:07 MSK 2017 count: 60 max: 1001ms min: 733ms avg: 995ms
+2017-11-08 14:06:07,609 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:06:07 MSK 2017 count: 60 max: 1001ms min: 740ms avg: 995ms
+2017-11-08 14:07:07,619 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:07:07 MSK 2017 count: 60 max: 1001ms min: 745ms avg: 996ms
+2017-11-08 14:08:07,629 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:08:07 MSK 2017 count: 60 max: 1005ms min: 751ms avg: 996ms
+2017-11-08 14:08:49,194 [WARN] -- SPP4222. resultSet == null
+2017-11-08 14:09:07,637 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:09:07 MSK 2017 count: 60 max: 1001ms min: 758ms avg: 996ms
+2017-11-08 14:10:07,645 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:10:07 MSK 2017 count: 60 max: 1003ms min: 768ms avg: 996ms
+2017-11-08 14:11:07,655 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:11:07 MSK 2017 count: 60 max: 1001ms min: 786ms avg: 996ms
+2017-11-08 14:12:07,665 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:12:07 MSK 2017 count: 60 max: 1001ms min: 797ms avg: 996ms
+2017-11-08 14:13:07,673 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:13:07 MSK 2017 count: 60 max: 1004ms min: 806ms avg: 997ms
+2017-11-08 14:13:54,660 [WARN] -- SPP4222. resultSet == null
+2017-11-08 14:14:07,684 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:14:07 MSK 2017 count: 60 max: 1002ms min: 818ms avg: 997ms
+2017-11-08 14:15:07,694 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:15:07 MSK 2017 count: 60 max: 1002ms min: 834ms avg: 997ms
+2017-11-08 14:16:07,702 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:16:07 MSK 2017 count: 60 max: 1002ms min: 843ms avg: 997ms
+2017-11-08 14:17:07,711 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:17:07 MSK 2017 count: 60 max: 1002ms min: 855ms avg: 997ms
+2017-11-08 14:18:07,721 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:18:07 MSK 2017 count: 60 max: 1003ms min: 869ms avg: 998ms
+2017-11-08 14:19:00,309 [WARN] -- SPP4222. resultSet == null
+2017-11-08 14:19:07,731 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:19:07 MSK 2017 count: 60 max: 1002ms min: 883ms avg: 998ms
+2017-11-08 14:20:07,741 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:20:07 MSK 2017 count: 60 max: 1001ms min: 896ms avg: 998ms
+2017-11-08 14:21:07,751 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:21:07 MSK 2017 count: 60 max: 1002ms min: 905ms avg: 998ms
+2017-11-08 14:22:07,760 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:22:07 MSK 2017 count: 60 max: 1002ms min: 915ms avg: 998ms
+2017-11-08 14:23:07,771 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:23:07 MSK 2017 count: 60 max: 1001ms min: 924ms avg: 999ms
+2017-11-08 14:24:04,162 [WARN] -- SPP4222. resultSet == null
+2017-11-08 14:24:07,782 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:24:07 MSK 2017 count: 60 max: 1002ms min: 932ms avg: 999ms
+2017-11-08 14:25:07,792 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:25:07 MSK 2017 count: 60 max: 1002ms min: 940ms avg: 999ms
+2017-11-08 14:26:07,801 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:26:07 MSK 2017 count: 60 max: 1001ms min: 949ms avg: 999ms
+2017-11-08 14:27:07,812 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:27:07 MSK 2017 count: 60 max: 1002ms min: 959ms avg: 999ms
+2017-11-08 14:28:07,821 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:28:07 MSK 2017 count: 60 max: 1001ms min: 968ms avg: 999ms
+2017-11-08 14:29:07,828 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:29:07 MSK 2017 count: 60 max: 1001ms min: 978ms avg: 999ms
+2017-11-08 14:29:09,698 [WARN] -- SPP4222. resultSet == null
+2017-11-08 14:30:07,838 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:30:07 MSK 2017 count: 60 max: 1001ms min: 990ms avg: 1000ms
+2017-11-08 14:31:07,849 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:31:06 MSK 2017 count: 59 max: 1001ms min: 999ms avg: 1000ms
+2017-11-08 14:32:07,861 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:32:06 MSK 2017 count: 60 max: 1001ms min: 6ms avg: 983ms
+2017-11-08 14:33:07,872 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:33:06 MSK 2017 count: 60 max: 1001ms min: 8ms avg: 983ms
+2017-11-08 14:34:07,882 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:34:06 MSK 2017 count: 60 max: 1001ms min: 12ms avg: 983ms
+2017-11-08 14:34:15,181 [WARN] -- SPP4222. resultSet == null
+2017-11-08 14:35:07,891 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:35:06 MSK 2017 count: 60 max: 1001ms min: 17ms avg: 983ms
+2017-11-08 14:36:07,901 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:36:06 MSK 2017 count: 60 max: 1001ms min: 22ms avg: 983ms
+2017-11-08 14:37:07,912 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:37:06 MSK 2017 count: 60 max: 1001ms min: 28ms avg: 984ms
+2017-11-08 14:38:07,921 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:38:06 MSK 2017 count: 60 max: 1001ms min: 34ms avg: 984ms
+2017-11-08 14:39:07,930 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:39:06 MSK 2017 count: 60 max: 1001ms min: 42ms avg: 984ms
+2017-11-08 14:39:20,838 [WARN] -- SPP4222. resultSet == null
+2017-11-08 14:40:07,941 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:40:06 MSK 2017 count: 60 max: 1002ms min: 49ms avg: 984ms
+2017-11-08 14:41:07,953 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:41:07 MSK 2017 count: 60 max: 1001ms min: 56ms avg: 984ms
+2017-11-08 14:42:07,964 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:42:07 MSK 2017 count: 60 max: 1001ms min: 61ms avg: 984ms
+2017-11-08 14:43:07,977 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:43:07 MSK 2017 count: 60 max: 1001ms min: 65ms avg: 984ms
+2017-11-08 14:44:07,985 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:44:07 MSK 2017 count: 60 max: 1001ms min: 69ms avg: 984ms
+2017-11-08 14:44:26,994 [WARN] -- SPP4222. resultSet == null
+2017-11-08 14:45:07,993 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:45:07 MSK 2017 count: 60 max: 1001ms min: 77ms avg: 984ms
+2017-11-08 14:46:08,002 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:46:07 MSK 2017 count: 60 max: 1002ms min: 84ms avg: 985ms
+2017-11-08 14:47:08,010 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:47:07 MSK 2017 count: 60 max: 1002ms min: 93ms avg: 985ms
+2017-11-08 14:48:08,019 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:48:07 MSK 2017 count: 60 max: 1001ms min: 102ms avg: 985ms
+2017-11-08 14:49:08,029 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:49:07 MSK 2017 count: 60 max: 1001ms min: 109ms avg: 985ms
+2017-11-08 14:49:32,512 [WARN] -- SPP4222. resultSet == null
+2017-11-08 14:49:32,747 [INFO] -- -----> Ntf perf: {:period=>"108452 sec", :bytes=>"0.08 b/sec", :max_bytes=>"16.65 b/sec", :min_bytes=>"0.08 b/sec", :avg_bytes=>"0.17 b/sec", :ntf=>"0 ntf/sec", :max_ntf=>"0.05 ntf/sec", :min_ntf=>"0 ntf/sec", :avg_ntf=>"0 ntf/sec"}
+2017-11-08 14:49:32,747 [INFO] -- -----> Queue stats: {:in_q=>0, :ntf_proxy_q=>0, :zk_q=>0, :ntf_in_q=>0, :ntf_out_q=>0, :clients_n=>1, :sender_out=>0, :sender_in=>0, :sender_b=>6057, :cluster_b=>0, :time_b=>0, :plugin_q=>0, :space_q=>0}
+2017-11-08 14:49:32,747 [INFO] -- -----> Ntf size stats: 
+10.247.2.236:49057:
+  class:SettingsNotifier:
+    {:count=>1, :total=>322, :max=>322, :min=>322, :avg=>322.0}
+-------------------------
+
+2017-11-08 14:49:32,747 [DEBUG] -- Изменена настройка seq_79_uobj = '400793064000'
+2017-11-08 14:49:32,747 [INFO] -- ----> Ntf handle time stat {"10.247.2.236:49057"=>{"SettingsNotifier"=>{:count=>1, :total=>0.0, :max=>0.0, :min=>0.0, :avg=>0}}}
+2017-11-08 14:50:08,040 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:50:07 MSK 2017 count: 60 max: 1001ms min: 116ms avg: 985ms
+2017-11-08 14:51:08,050 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:51:07 MSK 2017 count: 60 max: 1001ms min: 122ms avg: 985ms
+2017-11-08 14:52:08,060 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:52:07 MSK 2017 count: 60 max: 1001ms min: 129ms avg: 985ms
+2017-11-08 14:53:08,069 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:53:07 MSK 2017 count: 60 max: 1001ms min: 135ms avg: 985ms
+2017-11-08 14:54:08,080 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:54:07 MSK 2017 count: 60 max: 1001ms min: 142ms avg: 985ms
+2017-11-08 14:54:36,912 [WARN] -- SPP4222. resultSet == null
+2017-11-08 14:55:08,091 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:55:07 MSK 2017 count: 60 max: 1001ms min: 146ms avg: 986ms
+2017-11-08 14:56:08,099 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:56:07 MSK 2017 count: 60 max: 1001ms min: 152ms avg: 986ms
+2017-11-08 14:57:08,108 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:57:07 MSK 2017 count: 60 max: 1004ms min: 161ms avg: 986ms
+2017-11-08 14:58:08,116 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:58:07 MSK 2017 count: 60 max: 1001ms min: 168ms avg: 986ms
+2017-11-08 14:59:08,124 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 14:59:07 MSK 2017 count: 60 max: 1001ms min: 177ms avg: 986ms
+2017-11-08 14:59:42,222 [WARN] -- SPP4222. resultSet == null
+2017-11-08 15:00:08,134 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:00:07 MSK 2017 count: 60 max: 1001ms min: 184ms avg: 986ms
+2017-11-08 15:01:08,145 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:01:07 MSK 2017 count: 60 max: 1001ms min: 192ms avg: 986ms
+2017-11-08 15:02:08,154 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:02:07 MSK 2017 count: 60 max: 1001ms min: 199ms avg: 986ms
+2017-11-08 15:03:08,162 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:03:07 MSK 2017 count: 60 max: 1009ms min: 206ms avg: 987ms
+2017-11-08 15:04:08,171 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:04:07 MSK 2017 count: 60 max: 1001ms min: 223ms avg: 987ms
+2017-11-08 15:04:47,525 [WARN] -- SPP4222. resultSet == null
+2017-11-08 15:05:08,182 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:05:07 MSK 2017 count: 60 max: 1001ms min: 231ms avg: 987ms
+2017-11-08 15:06:08,194 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:06:07 MSK 2017 count: 60 max: 1001ms min: 236ms avg: 987ms
+2017-11-08 15:07:08,205 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:07:07 MSK 2017 count: 60 max: 1001ms min: 241ms avg: 987ms
+2017-11-08 15:08:08,217 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:08:07 MSK 2017 count: 60 max: 1009ms min: 247ms avg: 987ms
+2017-11-08 15:09:08,226 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:09:07 MSK 2017 count: 60 max: 1001ms min: 254ms avg: 987ms
+2017-11-08 15:09:52,921 [WARN] -- SPP4222. resultSet == null
+2017-11-08 15:10:08,236 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:10:07 MSK 2017 count: 60 max: 1001ms min: 263ms avg: 988ms
+2017-11-08 15:11:08,246 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:11:07 MSK 2017 count: 60 max: 1001ms min: 271ms avg: 988ms
+2017-11-08 15:12:08,257 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:12:07 MSK 2017 count: 60 max: 1002ms min: 279ms avg: 988ms
+2017-11-08 15:13:08,268 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:13:07 MSK 2017 count: 60 max: 1001ms min: 283ms avg: 988ms
+2017-11-08 15:14:08,278 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:14:07 MSK 2017 count: 60 max: 1001ms min: 286ms avg: 988ms
+2017-11-08 15:14:58,572 [WARN] -- SPP4222. resultSet == null
+2017-11-08 15:15:08,288 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:15:07 MSK 2017 count: 60 max: 1001ms min: 290ms avg: 988ms
+2017-11-08 15:16:08,296 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:16:07 MSK 2017 count: 60 max: 1002ms min: 296ms avg: 988ms
+2017-11-08 15:17:08,306 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:17:07 MSK 2017 count: 60 max: 1002ms min: 311ms avg: 988ms
+2017-11-08 15:18:08,318 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:18:07 MSK 2017 count: 60 max: 1002ms min: 328ms avg: 989ms
+2017-11-08 15:19:08,329 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:19:07 MSK 2017 count: 60 max: 1002ms min: 340ms avg: 989ms
+2017-11-08 15:20:05,141 [WARN] -- SPP4222. resultSet == null
+2017-11-08 15:20:08,338 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:20:07 MSK 2017 count: 60 max: 1002ms min: 350ms avg: 989ms
+2017-11-08 15:21:08,349 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:21:07 MSK 2017 count: 60 max: 1002ms min: 366ms avg: 989ms
+2017-11-08 15:22:08,361 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:22:07 MSK 2017 count: 60 max: 1002ms min: 379ms avg: 990ms
+2017-11-08 15:23:08,372 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:23:07 MSK 2017 count: 60 max: 1002ms min: 390ms avg: 990ms
+2017-11-08 15:24:08,384 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:24:07 MSK 2017 count: 60 max: 1001ms min: 401ms avg: 990ms
+2017-11-08 15:25:08,394 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:25:07 MSK 2017 count: 60 max: 1001ms min: 410ms avg: 990ms
+2017-11-08 15:25:08,504 [WARN] -- SPP4222. resultSet == null
+2017-11-08 15:26:08,405 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:26:07 MSK 2017 count: 60 max: 1001ms min: 420ms avg: 990ms
+2017-11-08 15:27:08,413 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:27:07 MSK 2017 count: 60 max: 1001ms min: 428ms avg: 990ms
+2017-11-08 15:28:08,421 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:28:07 MSK 2017 count: 60 max: 1002ms min: 439ms avg: 990ms
+2017-11-08 15:29:08,429 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:29:07 MSK 2017 count: 60 max: 1001ms min: 452ms avg: 991ms
+2017-11-08 15:30:08,438 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:30:07 MSK 2017 count: 60 max: 1001ms min: 464ms avg: 991ms
+2017-11-08 15:30:12,052 [WARN] -- SPP4222. resultSet == null
+2017-11-08 15:31:08,449 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:31:07 MSK 2017 count: 60 max: 1001ms min: 473ms avg: 991ms
+2017-11-08 15:32:08,458 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:32:07 MSK 2017 count: 60 max: 1001ms min: 479ms avg: 991ms
+2017-11-08 15:33:08,468 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:33:07 MSK 2017 count: 60 max: 1001ms min: 487ms avg: 991ms
+2017-11-08 15:34:08,477 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:34:07 MSK 2017 count: 60 max: 1001ms min: 495ms avg: 991ms
+2017-11-08 15:35:08,487 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:35:08 MSK 2017 count: 60 max: 1001ms min: 503ms avg: 992ms
+2017-11-08 15:35:15,353 [WARN] -- SPP4222. resultSet == null
+2017-11-08 15:36:08,497 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:36:08 MSK 2017 count: 60 max: 1001ms min: 515ms avg: 992ms
+2017-11-08 15:37:08,506 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:37:08 MSK 2017 count: 60 max: 1005ms min: 522ms avg: 992ms
+2017-11-08 15:38:08,516 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:38:08 MSK 2017 count: 60 max: 1001ms min: 534ms avg: 992ms
+2017-11-08 15:39:08,527 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:39:08 MSK 2017 count: 60 max: 1001ms min: 540ms avg: 992ms
+2017-11-08 15:40:08,536 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:40:08 MSK 2017 count: 60 max: 1002ms min: 547ms avg: 992ms
+2017-11-08 15:40:18,823 [WARN] -- SPP4222. resultSet == null
+2017-11-08 15:41:08,547 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:41:08 MSK 2017 count: 60 max: 1001ms min: 557ms avg: 992ms
+2017-11-08 15:42:08,556 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:42:08 MSK 2017 count: 60 max: 1001ms min: 561ms avg: 992ms
+2017-11-08 15:43:08,567 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:43:08 MSK 2017 count: 60 max: 1001ms min: 568ms avg: 993ms
+2017-11-08 15:44:08,577 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:44:08 MSK 2017 count: 60 max: 1001ms min: 573ms avg: 993ms
+2017-11-08 15:45:08,587 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:45:08 MSK 2017 count: 60 max: 1001ms min: 581ms avg: 993ms
+2017-11-08 15:45:22,249 [WARN] -- SPP4222. resultSet == null
+2017-11-08 15:46:08,598 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:46:08 MSK 2017 count: 60 max: 1001ms min: 592ms avg: 993ms
+2017-11-08 15:47:08,609 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:47:08 MSK 2017 count: 60 max: 1001ms min: 605ms avg: 993ms
+2017-11-08 15:48:08,620 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:48:08 MSK 2017 count: 60 max: 1001ms min: 613ms avg: 993ms
+2017-11-08 15:49:08,631 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:49:08 MSK 2017 count: 60 max: 1001ms min: 619ms avg: 993ms
+2017-11-08 15:50:08,641 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:50:08 MSK 2017 count: 60 max: 1001ms min: 626ms avg: 994ms
+2017-11-08 15:50:26,331 [WARN] -- SPP4222. resultSet == null
+2017-11-08 15:51:08,650 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:51:08 MSK 2017 count: 60 max: 1003ms min: 632ms avg: 994ms
+2017-11-08 15:52:08,661 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:52:08 MSK 2017 count: 60 max: 1001ms min: 640ms avg: 994ms
+2017-11-08 15:53:08,671 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:53:08 MSK 2017 count: 60 max: 1002ms min: 646ms avg: 994ms
+2017-11-08 15:54:08,682 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:54:08 MSK 2017 count: 60 max: 1001ms min: 654ms avg: 994ms
+2017-11-08 15:55:08,693 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:55:08 MSK 2017 count: 60 max: 1001ms min: 660ms avg: 994ms
+2017-11-08 15:55:30,602 [WARN] -- SPP4222. resultSet == null
+2017-11-08 15:55:30,825 [INFO] -- -----> Ntf perf: {:period=>"112410 sec", :bytes=>"0.08 b/sec", :max_bytes=>"16.65 b/sec", :min_bytes=>"0.08 b/sec", :avg_bytes=>"0.17 b/sec", :ntf=>"0 ntf/sec", :max_ntf=>"0.05 ntf/sec", :min_ntf=>"0 ntf/sec", :avg_ntf=>"0 ntf/sec"}
+2017-11-08 15:55:30,825 [INFO] -- -----> Queue stats: {:in_q=>0, :ntf_proxy_q=>0, :zk_q=>0, :ntf_in_q=>0, :ntf_out_q=>0, :clients_n=>1, :sender_out=>0, :sender_in=>0, :sender_b=>6057, :cluster_b=>0, :time_b=>0, :plugin_q=>0, :space_q=>0}
+2017-11-08 15:55:30,825 [INFO] -- -----> Ntf size stats: 
+10.247.2.236:49057:
+  class:SettingsNotifier:
+    {:count=>1, :total=>322, :max=>322, :min=>322, :avg=>322.0}
+-------------------------
+
+2017-11-08 15:55:30,826 [DEBUG] -- Изменена настройка seq_79_uobj = '400793068000'
+2017-11-08 15:55:30,826 [INFO] -- ----> Ntf handle time stat {"10.247.2.236:49057"=>{"SettingsNotifier"=>{:count=>1, :total=>0.001, :max=>0.001, :min=>0.001, :avg=>0}}}
+2017-11-08 15:56:08,704 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:56:08 MSK 2017 count: 60 max: 1001ms min: 667ms avg: 994ms
+2017-11-08 15:57:08,713 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:57:08 MSK 2017 count: 60 max: 1001ms min: 675ms avg: 994ms
+2017-11-08 15:58:08,723 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:58:08 MSK 2017 count: 60 max: 1001ms min: 686ms avg: 995ms
+2017-11-08 15:59:08,733 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 15:59:08 MSK 2017 count: 60 max: 1003ms min: 695ms avg: 995ms
+2017-11-08 16:00:08,742 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 16:00:08 MSK 2017 count: 60 max: 1001ms min: 706ms avg: 995ms
+2017-11-08 16:00:34,036 [WARN] -- SPP4222. resultSet == null
+2017-11-08 16:01:08,751 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 16:01:08 MSK 2017 count: 60 max: 1001ms min: 716ms avg: 995ms
+2017-11-08 16:02:08,759 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 16:02:08 MSK 2017 count: 60 max: 1001ms min: 725ms avg: 995ms
+2017-11-08 16:03:08,767 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 16:03:08 MSK 2017 count: 60 max: 1001ms min: 733ms avg: 995ms
+2017-11-08 16:04:08,776 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 16:04:08 MSK 2017 count: 60 max: 1001ms min: 745ms avg: 996ms
+2017-11-08 16:05:08,783 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 16:05:08 MSK 2017 count: 60 max: 1001ms min: 757ms avg: 996ms
+2017-11-08 16:05:37,739 [WARN] -- SPP4222. resultSet == null
+2017-11-08 16:06:08,793 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 16:06:08 MSK 2017 count: 60 max: 1001ms min: 769ms avg: 996ms
+2017-11-08 16:07:08,801 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 16:07:08 MSK 2017 count: 60 max: 1003ms min: 780ms avg: 996ms
+2017-11-08 16:08:08,809 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 16:08:08 MSK 2017 count: 60 max: 1001ms min: 793ms avg: 996ms
+2017-11-08 16:09:08,820 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 16:09:08 MSK 2017 count: 60 max: 1001ms min: 804ms avg: 997ms
+2017-11-08 16:10:08,832 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 16:10:08 MSK 2017 count: 60 max: 1001ms min: 812ms avg: 997ms
+2017-11-08 16:10:41,034 [WARN] -- SPP4222. resultSet == null
+2017-11-08 16:11:08,843 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 16:11:08 MSK 2017 count: 60 max: 1001ms min: 823ms avg: 997ms
+2017-11-08 16:12:08,856 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 16:12:08 MSK 2017 count: 60 max: 1005ms min: 830ms avg: 997ms
+2017-11-08 16:13:08,866 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 16:13:08 MSK 2017 count: 60 max: 1001ms min: 834ms avg: 997ms
+2017-11-08 16:14:08,876 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 16:14:08 MSK 2017 count: 60 max: 1001ms min: 844ms avg: 997ms
+2017-11-08 16:15:08,888 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 16:15:08 MSK 2017 count: 60 max: 1001ms min: 853ms avg: 997ms
+2017-11-08 16:15:45,724 [WARN] -- SPP4222. resultSet == null
+2017-11-08 16:16:05,603 [INFO] -- -----> Ntf perf: {:period=>"113645 sec", :bytes=>"0.31 b/sec", :max_bytes=>"16.65 b/sec", :min_bytes=>"0.08 b/sec", :avg_bytes=>"0.17 b/sec", :ntf=>"0 ntf/sec", :max_ntf=>"0.05 ntf/sec", :min_ntf=>"0 ntf/sec", :avg_ntf=>"0 ntf/sec"}
+2017-11-08 16:16:05,603 [INFO] -- -----> Queue stats: {:in_q=>0, :ntf_proxy_q=>0, :zk_q=>0, :ntf_in_q=>0, :ntf_out_q=>0, :clients_n=>1, :sender_out=>0, :sender_in=>0, :sender_b=>6057, :cluster_b=>0, :time_b=>0, :plugin_q=>0, :space_q=>0}
+2017-11-08 16:16:05,603 [INFO] -- -----> Ntf size stats: 
+10.247.2.201:49099:
+  class:KompasGetChannel:
+    {:count=>1, :total=>388, :max=>388, :min=>388, :avg=>388.0}
+-------------------------
+
+2017-11-08 16:16:05,617 [INFO] -- ----> Ntf handle time stat {"10.247.2.201:49099"=>{"KompasGetChannel"=>{:count=>1, :total=>0.014, :max=>0.014, :min=>0.014, :avg=>0}}}
+2017-11-08 16:16:08,899 [DEBUG] -- ntf ping stat  for: 10.247.2.236:49057 since: Wed Nov 08 16:16:08 MSK 2017 count: 60 max: 1001ms min: 859ms avg: 997ms
+2017-11-08 16:16:14,881 [INFO] -- Начало инициализации KOMPAS-GET
+2017-11-08 16:16:14,882 [INFO] -- Изменилось состояние KOMPAS-GET на RUNNING
+2017-11-08 16:16:14,882 [DEBUG] -- ru.programpark.poller.soap.BaseSoapPoller.pushBaseState() вызван для KOMPAS-GET
+2017-11-08 16:16:14,883 [INFO] -- Конец инициализации KOMPAS-GET
+2017-11-08 16:16:14,924 [DEBUG] -- Канал KOMPAS-GET. <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:tem="http://tempuri.org/">
+	<soap:Header/>
+	<soap:Body>
+		<tem:GetGraphicRequests>
+			<tem:fromDate>2017-11-01T19:01:05</tem:fromDate>
+			<tem:toDate>2017-11-08T16:16:14</tem:toDate>
+		</tem:GetGraphicRequests>
+	</soap:Body>
+</soap:Envelope>
+
