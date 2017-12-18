@@ -12,22 +12,6 @@ import (
 	"time"
 )
 
-//type logLevel int
-
-//const (
-//	INFO logLevel = iota
-//	DEBUG
-//	WARN
-//	ERR
-//)
-//
-//var logLevels []logLevel = []logLevel{INFO, DEBUG, WARN, ERR}
-//
-//func (ll logLevel) String() string  {
-//	logLevels := []string{"INFO", "DEBUG", "WARN", "ERR"}
-//	return logLevels[ll]
-//}
-
 type record struct {
 	message     string
 	dateTime    time.Time
@@ -36,7 +20,7 @@ type record struct {
 
 var logStatuses = []string{"[ERROR]", "[INFO]", "[DEBUG]", "[WARN]"}
 
-type newJournalHash map[string]map[string]*record // {"ERROR": {"23542kjg21376": record}}
+type newJournalHash map[string]map[string]*record
 
 func checkLogLevel(s string) bool {
 	logLevelsMap := map[string]bool{
