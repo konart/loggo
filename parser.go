@@ -122,7 +122,6 @@ func getLogRecord(s string) (*record, string) {
 }
 
 func main() {
-	//f, err := os.Open("example\\10-24_11-39-31_Server_SSP.log")
 	f, err := os.Open(`C:\logs\10.111.75.137-15.12.2017-00.04\opt\ruby_projects\ontology\rvec\conf_fast_start\.netbeans-config\var\log\12-14_04-41-08_Server_DEV.2017-12-15.log`)
 	if err != nil {
 		log.Fatal(err)
