@@ -3,6 +3,7 @@ package main
 import (
 	"bufio"
 	"crypto/md5"
+	"flag"
 	"fmt"
 	"github.com/labstack/gommon/log"
 	"io"
@@ -122,7 +123,9 @@ func getLogRecord(s string) (*record, string) {
 }
 
 func main() {
-	f, err := os.Open(`C:\logs\10.111.75.137-15.12.2017-00.04\opt\ruby_projects\ontology\rvec\conf_fast_start\.netbeans-config\var\log\12-14_04-41-08_Server_DEV.2017-12-15.log`)
+	var filename = flag.String("file", "C:\\log.txt", "Full path to a log file")
+	flag.Parse()
+	f, err := os.Open(*filename)
 	if err != nil {
 		log.Fatal(err)
 	}
